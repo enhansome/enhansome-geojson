@@ -1,0 +1,1303 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "turf",
+          "description": "collection of functions for spatial operations and analysi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:36:43Z",
+            "owner": "Turfjs",
+            "repo": "turf",
+            "stars": 10431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-js-utils",
+          "description": "JavaScript helper functions for manipulating GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-29T10:51:07Z",
+            "owner": "max-mapper",
+            "repo": "geojson-js-utils",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-merge",
+          "description": "Merge multiple GeoJSON files into one FeatureCollection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-25T15:52:44Z",
+            "owner": "mapbox",
+            "repo": "geojson-merge",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simplify-geojson",
+          "description": "apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-12T17:08:20Z",
+            "owner": "max-mapper",
+            "repo": "simplify-geojson",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-rewind",
+          "description": "enforce ring winding order",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T14:43:34Z",
+            "owner": "mapbox",
+            "repo": "geojson-rewind",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoGran",
+          "description": "Resample statistics from one set of GeoJSON polygons to another",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-04T08:25:30Z",
+            "owner": "funkeinteraktiv",
+            "repo": "cogran",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-polygon-labels",
+          "description": "generate point labels from GeoJSON polygons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-26T04:03:41Z",
+            "owner": "andrewharvey",
+            "repo": "geojson-polygon-labels",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "winnow",
+          "description": "run sql queries against geojson with javascript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-13T20:04:33Z",
+            "owner": "koopjs",
+            "repo": "winnow",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turf_dart",
+          "description": "a turf.js port for Dart and Flutter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-10T14:18:11Z",
+            "owner": "dartclub",
+            "repo": "turf_dart",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-random",
+          "description": "generate random geojson points, lines, and polygons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-27T14:04:45Z",
+            "owner": "tmcw",
+            "repo": "geojson-random",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-shave",
+          "description": "a Python command-line tool for reducing the size of GeoJSON files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-04T09:00:14Z",
+            "owner": "ben-nour",
+            "repo": "geojson-shave",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-flatten",
+          "description": "flatten multi geometries into normal geometries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-07T07:23:06Z",
+            "owner": "tmcw",
+            "repo": "geojson-flatten",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-join",
+          "description": "join geojson against json, dbf, and csv files",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-08-23T10:00:02Z",
+            "owner": "node-geojson",
+            "repo": "geojson-join",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-summary",
+          "description": "get a plain-english summary of what's in a geojson file",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-13T23:15:38Z",
+            "owner": "mapbox",
+            "repo": "geojson-summary",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-normalize",
+          "description": "normalize any geojson object into a geojson featurecollection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-13T23:21:27Z",
+            "owner": "mapbox",
+            "repo": "geojson-normalize",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-coords",
+          "description": "Extract coordinates from GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-24T10:17:42Z",
+            "owner": "mapbox",
+            "repo": "geojson-coords",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "de9im",
+          "description": "collection of fast functions for spatial javascript operations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-12T04:40:36Z",
+            "owner": "dpmcmlxxvi",
+            "repo": "de9im",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojsontools",
+          "description": "Python tools for manipulating GeoJSON files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-11-06T07:08:07Z",
+            "owner": "micolous",
+            "repo": "geojsontools",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-mesh",
+          "description": "extract shared borders of Polygons in a GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-20T07:59:56Z",
+            "owner": "andrewharvey",
+            "repo": "geojson-mesh",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rfc7946-to-d3",
+          "description": "Converts polygon winding order between rfc7946 and d3 compatible conventions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-28T06:41:29Z",
+            "owner": "tyrasd",
+            "repo": "rfc7946-to-d3",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-indoor-tools",
+          "description": "Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-24T18:07:03Z",
+            "owner": "ArmanJR",
+            "repo": "geojson-indoor-tools",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-multiply",
+          "description": "merge normal geojson features into one multi geometry type feature",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-06T23:34:57Z",
+            "owner": "haoliangyu",
+            "repo": "geojson-multiply",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geo_assigner",
+          "description": "Copy a property to all intersecting features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-09-15T14:09:14Z",
+            "owner": "stadt-karlsruhe",
+            "repo": "geo_assigner",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-id-streaming",
+          "description": "Add a unique id to each Feature",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-30T03:18:56Z",
+            "owner": "andrewharvey",
+            "repo": "geojson-id-streaming",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "point-grouper",
+          "description": "group geojson points into containing polygons",
+          "children": []
+        }
+      ],
+      "title": "operations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gjv",
+          "description": "electron app enables viewing GeoJSON locally and hack on it with turf; works offline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-02T19:47:21Z",
+            "owner": "anandthakker",
+            "repo": "gjv",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vector Tile Lab",
+          "description": "An interactive sandbox to tune vector tiles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-03T10:52:49Z",
+            "owner": "spider-hand",
+            "repo": "vector-tile-lab",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson2image",
+          "description": "library for generating images from GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-09-25T19:37:28Z",
+            "owner": "brycejohnston",
+            "repo": "geojson2image",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "editors & viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "geojson-pydantic",
+          "description": "Pydantic models for GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T17:24:09Z",
+            "owner": "developmentseed",
+            "repo": "geojson-pydantic",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojsonhint",
+          "description": "find errors in your geojson files",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-28T13:50:42Z",
+            "owner": "mapbox",
+            "repo": "geojsonhint",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "antimeridian",
+          "description": "Fix GeoJSON polygons that cross the antimeridian (Python package)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:36:35Z",
+            "owner": "gadomski",
+            "repo": "antimeridian",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gjf",
+          "description": "A tool to fix invalid GeoJSON objects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-22T10:47:59Z",
+            "owner": "yazeed44",
+            "repo": "gjf",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "check-geojson",
+          "description": "alternative to geojsonhint",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-18T14:08:30Z",
+            "owner": "placemark",
+            "repo": "check-geojson",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jest-GeoJSON",
+          "description": "an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-12T14:23:53Z",
+            "owner": "M-Scott-Lassiter",
+            "repo": "jest-geojson",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "validation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "geojsonio-cli",
+          "description": "send geojson features to geojson.io from your command line",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-12-11T20:42:00Z",
+            "owner": "mapbox",
+            "repo": "geojsonio-cli",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "featureserver",
+          "description": "An open source Esri-Style Feature Server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-13T12:06:37Z",
+            "owner": "koopjs",
+            "repo": "FeatureServer",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojsonio-extension",
+          "description": "chrome extension for editing github files in geojson.io",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2014-01-29T20:56:23Z",
+            "owner": "mapbox",
+            "repo": "geojsonio-extension",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "topojson",
+          "description": "convert GeoJSON to & from TopoJSON, join data from CSV",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-20T23:03:27Z",
+            "owner": "topojson",
+            "repo": "topojson",
+            "stars": 4902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supercluster",
+          "description": "A fast GeoJSON clustering library for browsers and Node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T09:43:43Z",
+            "owner": "mapbox",
+            "repo": "supercluster",
+            "stars": 2345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-vt",
+          "description": "Slice GeoJSON into vector tiles on the fly in the browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-02T09:09:20Z",
+            "owner": "mapbox",
+            "repo": "geojson-vt",
+            "stars": 2041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "togeojson",
+          "description": "convert GPX & KML to geojson",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-31T17:10:03Z",
+            "owner": "placemark",
+            "repo": "togeojson",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wellknown",
+          "description": "convert WKT to GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T15:26:21Z",
+            "owner": "mapbox",
+            "repo": "wellknown",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esri2open",
+          "description": "converts proprietary Esri formats to GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-12-21T13:24:38Z",
+            "owner": "project-open-data",
+            "repo": "esri2open",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "topojson for Python",
+          "description": "Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-22T20:29:34Z",
+            "owner": "mattijn",
+            "repo": "topojson",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokml",
+          "description": "convert GeoJSON to KML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T15:20:53Z",
+            "owner": "mapbox",
+            "repo": "tokml",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geomet",
+          "description": "Pure Python conversion library for common geospatial data formats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-07T12:26:19Z",
+            "owner": "geomet",
+            "repo": "geomet",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vt-geojson",
+          "description": "Extract GeoJSON from Mapbox vector tiles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-27T07:19:59Z",
+            "owner": "developmentseed",
+            "repo": "vt-geojson",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "betterknown",
+          "description": "convert WKT to GeoJSON (successor to wellknown)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-17T22:33:07Z",
+            "owner": "placemark",
+            "repo": "betterknown",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-mapnikify",
+          "description": "Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-09-17T22:26:48Z",
+            "owner": "mapbox",
+            "repo": "geojson-mapnikify",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gtfs2geojson",
+          "description": "convert GTFS transit data to GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-14T16:51:50Z",
+            "owner": "node-geojson",
+            "repo": "gtfs2geojson",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geoxform",
+          "description": "convert any size stream of geojson into a streaming CSV, Shapefile or KML, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-16T14:32:58Z",
+            "owner": "GeoXForm",
+            "repo": "GeoXForm",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson2rtree",
+          "description": "generate a static rtree (using terraformer) from a set of geojson features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-04-10T22:32:52Z",
+            "owner": "max-mapper",
+            "repo": "geojson2rtree",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "CSV",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "csv2geojson",
+              "description": "convert CSV to geojson",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-06-29T14:37:22Z",
+                "owner": "mapbox",
+                "repo": "csv2geojson",
+                "stars": 373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geojson2dsv",
+              "description": "convert geojson to CSV and TSV",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-05-03T21:49:07Z",
+                "owner": "node-geojson",
+                "repo": "geojson2dsv",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ogr2ogr",
+          "description": "convert anything to anything",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fiona",
+              "description": "nice python interface on top of ogr",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-20T23:53:44Z",
+                "owner": "Toblerity",
+                "repo": "Fiona",
+                "stars": 1247
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "shp2json",
+          "description": "convert shapefile zip archives to streaming GeoJSON",
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "SVG",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "geojson2svg",
+              "description": "Converts GeoJSON to SVG string given SVG view port size and maps extent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-05-26T03:58:31Z",
+                "owner": "gagan-bansal",
+                "repo": "geojson2svg",
+                "stars": 250
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "svg-to-geojson",
+              "description": "Drag and drop SVG on the map and it returns GeoJSON back to you.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2023-05-20T21:12:02Z",
+                "owner": "mapbox",
+                "repo": "svg-to-geojson",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geojson-to-svg-cli",
+              "description": "Command line tool to convert GeoJSON to SVG.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-01-01T14:45:10Z",
+                "owner": "derhuerst",
+                "repo": "geojson-to-svg-cli",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geojson-svgify",
+              "description": "Convert GeoJSON geometry paths to SVG polyline elements.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-10-11T10:45:47Z",
+                "owner": "juliuste",
+                "repo": "geojson-svgify",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OpenStreetMap",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "osmtogeojson",
+              "description": "convert OpenStreetMap data to GeoJSON",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-04-23T02:49:39Z",
+                "owner": "tyrasd",
+                "repo": "osmtogeojson",
+                "stars": 750
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "query-overpass",
+              "description": "CLI to make Overpass query and transform result to GeoJSON. Based on osmtogeojson",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-03-28T09:28:59Z",
+                "owner": "perliedman",
+                "repo": "query-overpass",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "osm2geojson",
+              "description": "(Python) converts OSM XML and Overpass XML/JSON to GeoJSON",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-19T13:46:42Z",
+                "owner": "rapkin",
+                "repo": "osm2geojson",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "osm-and-geojson",
+              "description": "convert GeoJSON to OSM XML and OSM XML to GeoJSON",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-07-14T00:08:01Z",
+                "owner": "aaronlidman",
+                "repo": "osm-and-geojson",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "minjur",
+              "description": "converts OpenStreetMap data to GeoJSON faster than anything else",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2017-09-04T07:47:31Z",
+                "owner": "mapbox",
+                "repo": "minjur",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geojsontoosm",
+              "description": "convert GeoJSON to OSM XML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-04-18T10:59:21Z",
+                "owner": "tyrasd",
+                "repo": "geojsontoosm",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "osm2geojson",
+              "description": "converts OSM XML to GeoJSON",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-06-28T11:40:35Z",
+                "owner": "rclark",
+                "repo": "osm2geojson",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geojson2osm",
+              "description": "convert GeoJSON to OSM XML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-11-11T15:54:37Z",
+                "owner": "Rub21",
+                "repo": "geojson2osm",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geojson2osm-es6",
+              "description": "convert GeoJSON to OSM XML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2016-11-21T05:34:35Z",
+                "owner": "DenisCarriere",
+                "repo": "geojson2osm-es6",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "conversion"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "geo-maps",
+          "description": "High Quality GeoJSON maps programmatically generated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-29T16:53:03Z",
+            "owner": "simonepri",
+            "repo": "geo-maps",
+            "stars": 1346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "world-atlas",
+          "description": "customizable simplified versions of natural earth data",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-08-11T10:20:43Z",
+            "owner": "topojson",
+            "repo": "world-atlas",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "us-atlas",
+          "description": "geojson & topojson for United States features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-02T05:17:20Z",
+            "owner": "topojson",
+            "repo": "us-atlas",
+            "stars": 924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "france-geojson",
+          "description": "Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-02T14:25:58Z",
+            "owner": "gregoiredavid",
+            "repo": "france-geojson",
+            "stars": 828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "historical-basemaps",
+          "description": "Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T18:39:42Z",
+            "owner": "aourednik",
+            "repo": "historical-basemaps",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "country-levels",
+          "description": "Full planet GeoJSON extracts, based on ISO and FIPS codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-07T18:08:34Z",
+            "owner": "hyperknot",
+            "repo": "country-levels-export",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openflights-geojson",
+          "description": "openflights airports & airplane routes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-10T21:15:17Z",
+            "owner": "node-geojson",
+            "repo": "openflights-geojson",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strava-geojson",
+          "description": "export all strava data to geojson, in node & on the web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-08T20:14:09Z",
+            "owner": "node-geojson",
+            "repo": "strava-geojson",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "99boundaries",
+          "description": "Generate any maritime & land boundary in GeoJSON and other file formats or download directly from the web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-03T21:38:13Z",
+            "owner": "TimMcCauley",
+            "repo": "nintynine-boundaries",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tgn-geojson",
+          "description": "The Getty Thesaurus of Geographic Names (TGN) As GeoJSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-10-25T04:21:06Z",
+            "owner": "straup",
+            "repo": "tgn-geojson",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whereonearth-airport",
+          "description": "outlines of every airport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-06-14T22:01:54Z",
+            "owner": "woeplanet-data",
+            "repo": "whereonearth-airport",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whereonearth-building",
+          "description": "building outlines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2011-11-01T17:04:48Z",
+            "owner": "straup",
+            "repo": "whereonearth-building",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strava-to-geojsonio",
+          "description": "export runs & rides from Strava to GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-05T22:25:48Z",
+            "owner": "taketime",
+            "repo": "strava-to-geojsonio",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "python-geojson",
+          "description": "serialize geojson to/from python datatypes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-06T03:39:01Z",
+            "owner": "jazzband",
+            "repo": "geojson",
+            "stars": 994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapbox-java",
+          "description": "serialize GeoJSON to and from Java datatypes (based on Gson)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-31T12:04:53Z",
+            "owner": "mapbox",
+            "repo": "mapbox-java",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-geojson",
+          "description": "serialize geojson to/from rust datatypes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-29T23:32:48Z",
+            "owner": "georust",
+            "repo": "geojson",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-jackson",
+          "description": "serialize GeoJSON to and from Java datatypes (based on Jackson)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-11T20:09:45Z",
+            "owner": "opendatalab-de",
+            "repo": "geojson-jackson",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rgeo-geojson",
+          "description": "serialize geojson to/from ruby RGeo datatypes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-10-10T10:57:29Z",
+            "owner": "rgeo",
+            "repo": "rgeo-geojson",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-serializer",
+          "description": "serialize Java with annotations as GeoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-14T22:43:49Z",
+            "owner": "ancore",
+            "repo": "geojson-serializer",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "serialization"
+    },
+    {
+      "description": "To the extent possible under law, Tom MacWright has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:26:52.199Z",
+    "original_repository": "tmcw/awesome-geojson",
+    "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
+    "enhanced_repository": "enhansome/enhansome-geojson",
+    "enhanced_repository_description": null,
+    "title": "awesome geojson with stars"
+  }
+}
