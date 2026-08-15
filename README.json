@@ -466,7 +466,7 @@
             "last_commit": "2025-02-18T14:08:30Z",
             "owner": "placemark",
             "repo": "check-geojson",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2024-09-20T23:03:27Z",
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4902
+            "stars": 4901
           }
         },
         {
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-10T09:43:43Z",
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2345
+            "stars": 2346
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "last_commit": "2024-01-02T05:17:20Z",
             "owner": "topojson",
             "repo": "us-atlas",
-            "stars": 924
+            "stars": 925
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "last_commit": "2026-01-26T18:39:42Z",
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 776
+            "stars": 777
           }
         },
         {
@@ -1210,7 +1210,7 @@
             "last_commit": "2026-06-06T03:39:01Z",
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 994
+            "stars": 993
           }
         },
         {
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:06:36.408Z",
+    "last_updated": "2026-08-15T23:02:05.501Z",
     "original_repository": "tmcw/awesome-geojson",
     "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
     "enhanced_repository": "enhansome/enhansome-geojson",
