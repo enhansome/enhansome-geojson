@@ -562,7 +562,7 @@
             "last_commit": "2026-08-10T09:43:43Z",
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2346
+            "stars": 2347
           }
         },
         {
@@ -1022,7 +1022,7 @@
             "last_commit": "2019-05-29T16:53:03Z",
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1346
+            "stars": 1347
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "last_commit": "2026-01-26T18:39:42Z",
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 777
+            "stars": 778
           }
         },
         {
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:02:05.501Z",
+    "last_updated": "2026-08-16T23:01:20.569Z",
     "original_repository": "tmcw/awesome-geojson",
     "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
     "enhanced_repository": "enhansome/enhansome-geojson",
