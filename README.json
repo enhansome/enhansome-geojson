@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T13:36:43Z",
+            "last_commit": "2026-08-17T20:00:37Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10431
+            "stars": 10432
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2024-09-20T23:03:27Z",
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4901
+            "stars": 4902
           }
         },
         {
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-10T09:43:43Z",
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2347
+            "stars": 2351
           }
         },
         {
@@ -1022,7 +1022,7 @@
             "last_commit": "2019-05-29T16:53:03Z",
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1347
+            "stars": 1348
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "last_commit": "2026-01-26T18:39:42Z",
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 778
+            "stars": 781
           }
         },
         {
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:01:20.569Z",
+    "last_updated": "2026-08-17T23:05:52.353Z",
     "original_repository": "tmcw/awesome-geojson",
     "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
     "enhanced_repository": "enhansome/enhansome-geojson",
