@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:00:37Z",
+            "last_commit": "2026-08-18T17:02:51Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10432
+            "stars": 10436
           }
         },
         {
@@ -466,7 +466,7 @@
             "last_commit": "2025-02-18T14:08:30Z",
             "owner": "placemark",
             "repo": "check-geojson",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "last_commit": "2026-01-26T18:39:42Z",
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 781
+            "stars": 782
           }
         },
         {
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:05:52.353Z",
+    "last_updated": "2026-08-18T23:08:40.868Z",
     "original_repository": "tmcw/awesome-geojson",
     "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
     "enhanced_repository": "enhansome/enhansome-geojson",
