@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13301038,
             "language": "TypeScript",
             "last_commit": "2026-08-18T17:02:51Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10436
+            "stars": 10438
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 802213,
             "language": "JavaScript",
             "last_commit": "2016-11-29T10:51:07Z",
             "owner": "max-mapper",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22392390,
             "language": "JavaScript",
             "last_commit": "2024-11-25T15:52:44Z",
             "owner": "mapbox",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17039436,
             "language": "JavaScript",
             "last_commit": "2022-04-12T17:08:20Z",
             "owner": "max-mapper",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15216063,
             "language": "JavaScript",
             "last_commit": "2026-06-29T14:43:34Z",
             "owner": "mapbox",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52593156,
             "language": "JavaScript",
             "last_commit": "2019-04-04T08:25:30Z",
             "owner": "funkeinteraktiv",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73982491,
             "language": "JavaScript",
             "last_commit": "2024-08-26T04:03:41Z",
             "owner": "andrewharvey",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52110344,
             "language": "JavaScript",
             "last_commit": "2023-08-13T20:04:33Z",
             "owner": "koopjs",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290911971,
             "language": "Dart",
             "last_commit": "2026-07-10T14:18:11Z",
             "owner": "dartclub",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22170740,
             "language": "JavaScript",
             "last_commit": "2023-02-27T14:04:45Z",
             "owner": "tmcw",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 779153433,
             "language": "Python",
             "last_commit": "2025-05-04T09:00:14Z",
             "owner": "ben-nour",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15593367,
             "language": "JavaScript",
             "last_commit": "2023-10-07T07:23:06Z",
             "owner": "tmcw",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36702187,
             "language": "JavaScript",
             "last_commit": "2018-08-23T10:00:02Z",
             "owner": "node-geojson",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15853060,
             "language": "JavaScript",
             "last_commit": "2026-04-13T23:15:38Z",
             "owner": "mapbox",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18803559,
             "language": "JavaScript",
             "last_commit": "2026-04-13T23:21:27Z",
             "owner": "mapbox",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18994481,
             "language": "JavaScript",
             "last_commit": "2026-06-24T10:17:42Z",
             "owner": "mapbox",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186052415,
             "language": "JavaScript",
             "last_commit": "2026-02-12T04:40:36Z",
             "owner": "dpmcmlxxvi",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17331533,
             "language": "Python",
             "last_commit": "2016-11-06T07:08:07Z",
             "owner": "micolous",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73775875,
             "language": "JavaScript",
             "last_commit": "2019-03-20T07:59:56Z",
             "owner": "andrewharvey",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84430695,
             "language": "JavaScript",
             "last_commit": "2018-05-28T06:41:29Z",
             "owner": "tyrasd",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585147502,
             "language": "Python",
             "last_commit": "2023-01-24T18:07:03Z",
             "owner": "ArmanJR",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57974728,
             "language": "JavaScript",
             "last_commit": "2016-05-06T23:34:57Z",
             "owner": "haoliangyu",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103664157,
             "language": "Python",
             "last_commit": "2017-09-15T14:09:14Z",
             "owner": "stadt-karlsruhe",
@@ -332,24 +355,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112544817,
             "language": "JavaScript",
             "last_commit": "2017-11-30T03:18:56Z",
             "owner": "andrewharvey",
             "repo": "geojson-id-streaming",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "point-grouper",
-          "description": "group geojson points into containing polygons",
-          "children": []
         }
       ],
       "title": "operations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -358,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52130214,
             "language": "JavaScript",
             "last_commit": "2017-11-02T19:47:21Z",
             "owner": "anandthakker",
@@ -372,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056679393,
             "language": "Vue",
             "last_commit": "2026-03-03T10:52:49Z",
             "owner": "spider-hand",
@@ -386,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79367502,
             "language": "Ruby",
             "last_commit": "2018-09-25T19:37:28Z",
             "owner": "brycejohnston",
@@ -397,7 +418,7 @@
       "title": "editors & viewers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -406,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265964613,
             "language": "Python",
             "last_commit": "2026-07-24T17:24:09Z",
             "owner": "developmentseed",
@@ -420,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11635008,
             "language": "JavaScript",
             "last_commit": "2024-05-28T13:50:42Z",
             "owner": "mapbox",
@@ -434,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626665725,
             "language": "Python",
             "last_commit": "2026-08-10T12:36:35Z",
             "owner": "gadomski",
@@ -448,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378593107,
             "language": "Python",
             "last_commit": "2021-06-22T10:47:59Z",
             "owner": "yazeed44",
@@ -462,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368874709,
             "language": "TypeScript",
             "last_commit": "2025-02-18T14:08:30Z",
             "owner": "placemark",
@@ -476,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 493429104,
             "language": "JavaScript",
             "last_commit": "2022-06-12T14:23:53Z",
             "owner": "M-Scott-Lassiter",
@@ -487,7 +514,7 @@
       "title": "validation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -496,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12706272,
             "language": "JavaScript",
             "last_commit": "2017-12-11T20:42:00Z",
             "owner": "mapbox",
@@ -510,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58579794,
             "language": "JavaScript",
             "last_commit": "2023-07-13T12:06:37Z",
             "owner": "koopjs",
@@ -524,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11907110,
             "language": "JavaScript",
             "last_commit": "2014-01-29T20:56:23Z",
             "owner": "mapbox",
@@ -535,7 +565,7 @@
       "title": "services"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -544,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6714663,
             "language": "JavaScript",
             "last_commit": "2024-09-20T23:03:27Z",
             "owner": "topojson",
@@ -558,11 +589,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47860620,
             "language": "JavaScript",
             "last_commit": "2026-08-10T09:43:43Z",
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2351
+            "stars": 2352
           }
         },
         {
@@ -572,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27469126,
             "language": "JavaScript",
             "last_commit": "2026-07-02T09:09:20Z",
             "owner": "mapbox",
@@ -586,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166107133,
             "language": "TypeScript",
             "last_commit": "2025-05-31T17:10:03Z",
             "owner": "placemark",
@@ -600,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12704254,
             "language": "JavaScript",
             "last_commit": "2026-06-29T15:26:21Z",
             "owner": "mapbox",
@@ -614,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8718832,
             "language": "Python",
             "last_commit": "2015-12-21T13:24:38Z",
             "owner": "project-open-data",
@@ -628,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146140421,
             "language": "Python",
             "last_commit": "2025-07-22T20:29:34Z",
             "owner": "mattijn",
@@ -642,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13427749,
             "language": "JavaScript",
             "last_commit": "2026-06-29T15:20:53Z",
             "owner": "mapbox",
@@ -656,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9200780,
             "language": "Python",
             "last_commit": "2025-06-07T12:26:19Z",
             "owner": "geomet",
@@ -670,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33996805,
             "language": "JavaScript",
             "last_commit": "2016-01-27T07:19:59Z",
             "owner": "developmentseed",
@@ -684,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527777545,
             "language": "TypeScript",
             "last_commit": "2025-12-17T22:33:07Z",
             "owner": "placemark",
@@ -698,6 +739,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18845285,
             "language": "JavaScript",
             "last_commit": "2025-09-17T22:26:48Z",
             "owner": "mapbox",
@@ -712,6 +754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44996268,
             "language": "JavaScript",
             "last_commit": "2023-11-14T16:51:50Z",
             "owner": "node-geojson",
@@ -726,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46358160,
             "language": "JavaScript",
             "last_commit": "2017-06-16T14:32:58Z",
             "owner": "GeoXForm",
@@ -740,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18654104,
             "language": "JavaScript",
             "last_commit": "2014-04-10T22:32:52Z",
             "owner": "max-mapper",
@@ -759,6 +804,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 5273411,
                 "language": "JavaScript",
                 "last_commit": "2026-06-29T14:37:22Z",
                 "owner": "mapbox",
@@ -773,6 +819,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15085720,
                 "language": "JavaScript",
                 "last_commit": "2017-05-03T21:49:07Z",
                 "owner": "node-geojson",
@@ -794,6 +841,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3080628,
                 "language": "Python",
                 "last_commit": "2025-02-20T23:53:44Z",
                 "owner": "Toblerity",
@@ -802,12 +850,6 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "shp2json",
-          "description": "convert shapefile zip archives to streaming GeoJSON",
-          "children": []
         },
         {
           "node_type": "group",
@@ -821,6 +863,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 18710037,
                 "language": "JavaScript",
                 "last_commit": "2026-05-26T03:58:31Z",
                 "owner": "gagan-bansal",
@@ -835,6 +878,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 126209252,
                 "language": "JavaScript",
                 "last_commit": "2023-05-20T21:12:02Z",
                 "owner": "mapbox",
@@ -849,6 +893,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 92780671,
                 "language": "JavaScript",
                 "last_commit": "2026-01-01T14:45:10Z",
                 "owner": "derhuerst",
@@ -863,6 +908,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 67946988,
                 "language": "JavaScript",
                 "last_commit": "2022-10-11T10:45:47Z",
                 "owner": "juliuste",
@@ -884,6 +930,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 13296600,
                 "language": "JavaScript",
                 "last_commit": "2026-04-23T02:49:39Z",
                 "owner": "tyrasd",
@@ -898,6 +945,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 22246920,
                 "language": "JavaScript",
                 "last_commit": "2023-03-28T09:28:59Z",
                 "owner": "perliedman",
@@ -912,6 +960,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 185233972,
                 "language": "Python",
                 "last_commit": "2026-07-19T13:46:42Z",
                 "owner": "rapkin",
@@ -926,6 +975,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 11515428,
                 "language": "JavaScript",
                 "last_commit": "2016-07-14T00:08:01Z",
                 "owner": "aaronlidman",
@@ -940,6 +990,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 37200547,
                 "language": "C++",
                 "last_commit": "2017-09-04T07:47:31Z",
                 "owner": "mapbox",
@@ -954,6 +1005,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 38205307,
                 "language": "JavaScript",
                 "last_commit": "2024-04-18T10:59:21Z",
                 "owner": "tyrasd",
@@ -968,6 +1020,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 11511803,
                 "language": "JavaScript",
                 "last_commit": "2017-06-28T11:40:35Z",
                 "owner": "rclark",
@@ -982,6 +1035,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 22773501,
                 "language": "JavaScript",
                 "last_commit": "2019-11-11T15:54:37Z",
                 "owner": "Rub21",
@@ -996,6 +1050,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 71855767,
                 "language": "TypeScript",
                 "last_commit": "2016-11-21T05:34:35Z",
                 "owner": "DenisCarriere",
@@ -1009,7 +1064,7 @@
       "title": "conversion"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1018,11 +1073,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102195801,
             "language": "JavaScript",
             "last_commit": "2019-05-29T16:53:03Z",
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1348
+            "stars": 1349
           }
         },
         {
@@ -1032,6 +1088,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8205065,
             "language": "Shell",
             "last_commit": "2021-08-11T10:20:43Z",
             "owner": "topojson",
@@ -1046,6 +1103,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8103046,
             "language": "Shell",
             "last_commit": "2024-01-02T05:17:20Z",
             "owner": "topojson",
@@ -1060,6 +1118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18015059,
             "language": null,
             "last_commit": "2022-12-02T14:25:58Z",
             "owner": "gregoiredavid",
@@ -1074,6 +1133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122627482,
             "language": "JavaScript",
             "last_commit": "2026-01-26T18:39:42Z",
             "owner": "aourednik",
@@ -1088,6 +1148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253952844,
             "language": null,
             "last_commit": "2020-05-07T18:08:34Z",
             "owner": "hyperknot",
@@ -1102,6 +1163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35965215,
             "language": "JavaScript",
             "last_commit": "2017-04-10T21:15:17Z",
             "owner": "node-geojson",
@@ -1116,6 +1178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36050253,
             "language": "JavaScript",
             "last_commit": "2019-05-08T20:14:09Z",
             "owner": "node-geojson",
@@ -1130,6 +1193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488226774,
             "language": "Python",
             "last_commit": "2026-01-03T21:38:13Z",
             "owner": "TimMcCauley",
@@ -1144,6 +1208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23262711,
             "language": null,
             "last_commit": "2015-10-25T04:21:06Z",
             "owner": "straup",
@@ -1158,6 +1223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2442487,
             "language": "Python",
             "last_commit": "2013-06-14T22:01:54Z",
             "owner": "woeplanet-data",
@@ -1172,6 +1238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2647583,
             "language": null,
             "last_commit": "2011-11-01T17:04:48Z",
             "owner": "straup",
@@ -1186,6 +1253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14754441,
             "language": "JavaScript",
             "last_commit": "2022-12-05T22:25:48Z",
             "owner": "taketime",
@@ -1197,7 +1265,7 @@
       "title": "data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1206,6 +1274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1985351,
             "language": "Python",
             "last_commit": "2026-06-06T03:39:01Z",
             "owner": "jazzband",
@@ -1220,6 +1289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55638412,
             "language": "Java",
             "last_commit": "2026-07-31T12:04:53Z",
             "owner": "mapbox",
@@ -1234,6 +1304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24011994,
             "language": "Rust",
             "last_commit": "2026-04-29T23:32:48Z",
             "owner": "georust",
@@ -1248,6 +1319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11447453,
             "language": "Java",
             "last_commit": "2025-12-11T20:09:45Z",
             "owner": "opendatalab-de",
@@ -1262,6 +1334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1144211,
             "language": "Ruby",
             "last_commit": "2024-10-10T10:57:29Z",
             "owner": "rgeo",
@@ -1276,6 +1349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193111955,
             "language": "Java",
             "last_commit": "2023-06-14T22:43:49Z",
             "owner": "ancore",
@@ -1285,16 +1359,12 @@
         }
       ],
       "title": "serialization"
-    },
-    {
-      "description": "To the extent possible under law, Tom MacWright has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:08:40.868Z",
+    "last_updated": "2026-08-19T12:30:25.100Z",
     "original_repository": "tmcw/awesome-geojson",
+    "original_repository_id": 36456042,
     "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
     "enhanced_repository": "enhansome/enhansome-geojson",
     "enhanced_repository_description": null,
