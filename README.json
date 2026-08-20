@@ -624,7 +624,7 @@
             "last_commit": "2025-05-31T17:10:03Z",
             "owner": "placemark",
             "repo": "togeojson",
-            "stars": 439
+            "stars": 438
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2026-01-26T18:39:42Z",
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 782
+            "stars": 784
           }
         },
         {
@@ -1309,7 +1309,7 @@
             "last_commit": "2026-04-29T23:32:48Z",
             "owner": "georust",
             "repo": "geojson",
-            "stars": 345
+            "stars": 344
           }
         },
         {
@@ -1362,7 +1362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:09:50.413Z",
+    "last_updated": "2026-08-20T23:11:22.639Z",
     "original_repository": "tmcw/awesome-geojson",
     "original_repository_id": 36456042,
     "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
