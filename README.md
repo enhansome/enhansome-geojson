@@ -52,9 +52,9 @@ GeoJSON utilities that will make your life easier.
 
 ### validation
 
-* [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 284 | 🐛 9 | 🌐 Python | 📅 2026-07-24: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
+* [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 284 | 🐛 8 | 🌐 Python | 📅 2026-08-24: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 * [geojsonhint](https://github.com/mapbox/geojsonhint) ⚠️ Archived: find errors in your geojson files
-* [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 110 | 🐛 6 | 🌐 Python | 📅 2026-08-10: Fix GeoJSON polygons that cross the antimeridian (Python package)
+* [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 110 | 🐛 7 | 🌐 Python | 📅 2026-08-24: Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [gjf](https://github.com/yazeed44/gjf) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2021-06-22: A tool to fix invalid GeoJSON objects
 * [check-geojson](https://github.com/placemark/check-geojson) ⭐ 86 | 🐛 6 | 🌐 TypeScript | 📅 2025-02-18: alternative to geojsonhint
 * [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson) ⭐ 9 | 🐛 7 | 🌐 JavaScript | 📅 2022-06-12: an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
@@ -72,7 +72,7 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-* [topojson](https://github.com/topojson/topojson) ⭐ 4,902 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
+* [topojson](https://github.com/topojson/topojson) ⭐ 4,903 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
 * [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,352 | 🐛 32 | 🌐 JavaScript | 📅 2026-08-10: A fast GeoJSON clustering library for browsers and Node.
 * [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,041 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-02: Slice GeoJSON into vector tiles on the fly in the browser
 * [togeojson](https://github.com/tmcw/togeojson) ⭐ 438 | 🐛 13 | 🌐 TypeScript | 📅 2025-05-31: convert GPX & KML to geojson
