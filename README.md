@@ -4,7 +4,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,455 | 🐛 283 | 🌐 TypeScript | 📅 2026-08-18: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,456 | 🐛 283 | 🌐 TypeScript | 📅 2026-08-18: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 403 | 🐛 18 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 244 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -54,7 +54,7 @@ GeoJSON utilities that will make your life easier.
 
 * [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 284 | 🐛 8 | 🌐 Python | 📅 2026-08-24: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 * [geojsonhint](https://github.com/mapbox/geojsonhint) ⚠️ Archived: find errors in your geojson files
-* [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 110 | 🐛 7 | 🌐 Python | 📅 2026-08-24: Fix GeoJSON polygons that cross the antimeridian (Python package)
+* [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 110 | 🐛 6 | 🌐 Python | 📅 2026-08-25: Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [gjf](https://github.com/yazeed44/gjf) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2021-06-22: A tool to fix invalid GeoJSON objects
 * [check-geojson](https://github.com/placemark/check-geojson) ⭐ 86 | 🐛 6 | 🌐 TypeScript | 📅 2025-02-18: alternative to geojsonhint
 * [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson) ⭐ 9 | 🐛 7 | 🌐 JavaScript | 📅 2022-06-12: an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
@@ -157,4 +157,4 @@ To the extent possible under law, [Tom MacWright](http://www.macwright.org) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

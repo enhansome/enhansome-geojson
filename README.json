@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T17:02:51Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10455
+            "stars": 10456
           }
         },
         {
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 626665725,
             "language": "Python",
-            "last_commit": "2026-08-24T14:13:03Z",
+            "last_commit": "2026-08-25T05:56:57Z",
             "owner": "gadomski",
             "repo": "antimeridian",
             "stars": 110
@@ -1362,7 +1362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:10:15.631Z",
+    "last_updated": "2026-08-25T05:58:08.890Z",
     "original_repository": "tmcw/awesome-geojson",
     "original_repository_id": 36456042,
     "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
