@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular geospatial engine written in JavaScript and TypeScript",
+            "homepage": "https://turfjs.org",
             "id": 13301038,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T17:02:51Z",
+            "open_issues": 283,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10462
+            "stars": 10463,
+            "topics": [
+              "algorithm",
+              "computational-geometry",
+              "geojson",
+              "geospatial",
+              "gis",
+              "javascript",
+              "mapping",
+              "turf",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -26,12 +41,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript helper functions for manipulating GeoJSON",
+            "homepage": null,
             "id": 802213,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-11-29T10:51:07Z",
+            "open_issues": 18,
             "owner": "max-mapper",
             "repo": "geojson-js-utils",
-            "stars": 403
+            "stars": 403,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -42,12 +62,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Merge multiple GeoJSON files into one FeatureCollection.",
+            "homepage": null,
             "id": 22392390,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2024-11-25T15:52:44Z",
+            "open_issues": 17,
             "owner": "mapbox",
             "repo": "geojson-merge",
-            "stars": 244
+            "stars": 244,
+            "topics": [
+              "banished"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -58,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI",
+            "homepage": null,
             "id": 17039436,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-04-12T17:08:20Z",
+            "open_issues": 4,
             "owner": "max-mapper",
             "repo": "simplify-geojson",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -74,12 +106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "enforce polygon ring winding order for geojson",
+            "homepage": null,
             "id": 15216063,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-06-29T14:43:34Z",
+            "open_issues": 5,
             "owner": "mapbox",
             "repo": "geojson-rewind",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -90,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoGran - A command line tool for combining data of different spatial granularity",
+            "homepage": null,
             "id": 52593156,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-04-04T08:25:30Z",
+            "open_issues": 7,
             "owner": "funkeinteraktiv",
             "repo": "cogran",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -106,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line tool to generate point labels from GeoJSON polygons",
+            "homepage": null,
             "id": 73982491,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2024-08-26T04:03:41Z",
+            "open_issues": 5,
             "owner": "andrewharvey",
             "repo": "geojson-polygon-labels",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -122,12 +169,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deprecated",
+            "homepage": null,
             "id": 52110344,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-13T20:04:33Z",
+            "open_issues": 15,
             "owner": "koopjs",
             "repo": "winnow",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "deprecated",
+              "geojson",
+              "in-memory-database",
+              "sql",
+              "typesript"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -138,12 +196,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A turf.js-like geospatial analysis library working with GeoJSON, written in pure Dart.",
+            "homepage": "https://pub.dev/packages/turf",
             "id": 290911971,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2026-07-10T14:18:11Z",
+            "open_issues": 32,
             "owner": "dartclub",
             "repo": "turf_dart",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "dart",
+              "flutter",
+              "geojson",
+              "geojson-parser",
+              "geospatial",
+              "turf"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -154,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate random GeoJSON features.",
+            "homepage": null,
             "id": 22170740,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-02-27T14:04:45Z",
+            "open_issues": 6,
             "owner": "tmcw",
             "repo": "geojson-random",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -170,12 +245,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool for reducing the size of GeoJSON files.",
+            "homepage": null,
             "id": 779153433,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:28:00Z",
+            "open_issues": 0,
             "owner": "ben-nour",
             "repo": "geojson-shave",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "geojson",
+              "geojson-data",
+              "geospatial",
+              "geospatial-data",
+              "geospatial-processing"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -186,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flatten multipart geometries and geometrycollections in geojson",
+            "homepage": null,
             "id": 15593367,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-10-07T07:23:06Z",
+            "open_issues": 3,
             "owner": "tmcw",
             "repo": "geojson-flatten",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -202,12 +293,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Join a stream of GeoJSON against a dataset.",
+            "homepage": null,
             "id": 36702187,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-23T10:00:02Z",
+            "open_issues": 0,
             "owner": "node-geojson",
             "repo": "geojson-join",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -218,12 +314,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate a plain-english summary of what is in a GeoJSON file.",
+            "homepage": null,
             "id": 15853060,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-13T23:15:38Z",
+            "open_issues": 0,
             "owner": "mapbox",
             "repo": "geojson-summary",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "banished"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -234,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Normalize any GeoJSON object into a GeoJSON FeatureCollection.",
+            "homepage": null,
             "id": 18803559,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-04-13T23:21:27Z",
+            "open_issues": 2,
             "owner": "mapbox",
             "repo": "geojson-normalize",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -250,12 +358,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract coordinates from GeoJSON.",
+            "homepage": null,
             "id": 18994481,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-06-24T10:17:42Z",
+            "open_issues": 2,
             "owner": "mapbox",
             "repo": "geojson-coords",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "banished"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -266,12 +381,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DE-9IM spatial predicate library implemented in Javascript.",
+            "homepage": "https://dpmcmlxxvi.github.io/de9im",
             "id": 186052415,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-12T04:40:36Z",
+            "open_issues": 4,
             "owner": "dpmcmlxxvi",
             "repo": "de9im",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "algorithm",
+              "de-9im",
+              "geojson",
+              "geospatial",
+              "gis",
+              "javascript",
+              "predicates",
+              "spatial"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -282,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python tools for manipulating GeoJSON files",
+            "homepage": null,
             "id": 17331533,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-11-06T07:08:07Z",
+            "open_issues": 0,
             "owner": "micolous",
             "repo": "geojsontools",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -298,12 +432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line tool to extract borders of GeoJSON Polygons into a non-overlapping set of LineString's",
+            "homepage": null,
             "id": 73775875,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2019-03-20T07:59:56Z",
+            "open_issues": 1,
             "owner": "andrewharvey",
             "repo": "geojson-mesh",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -314,12 +453,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts rfc7946 geojson polygons to d3 compatible ones",
+            "homepage": null,
             "id": 84430695,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-28T06:41:29Z",
+            "open_issues": 0,
             "owner": "tyrasd",
             "repo": "rfc7946-to-d3",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "d3",
+              "geojson",
+              "winding"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -330,12 +478,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick tools for editing GeoJSON files",
+            "homepage": null,
             "id": 585147502,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-24T18:07:03Z",
+            "open_issues": 0,
             "owner": "ArmanJR",
             "repo": "geojson-indoor-tools",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "geojson",
+              "indoor-maps"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -346,12 +502,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiply single type geojsons into a multi type geojson",
+            "homepage": null,
             "id": 57974728,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-05-06T23:34:57Z",
+            "open_issues": 0,
             "owner": "haoliangyu",
             "repo": "geojson-multiply",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "editing",
+              "geojson"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -362,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool and Python module to assign a property from one set of GeoJSON features to another",
+            "homepage": null,
             "id": 103664157,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-09-15T14:09:14Z",
+            "open_issues": 0,
             "owner": "stadt-karlsruhe",
             "repo": "geo_assigner",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -378,12 +547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add a unique id to a GeoJSON file with streaming",
+            "homepage": null,
             "id": 112544817,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-11-30T03:18:56Z",
+            "open_issues": 0,
             "owner": "andrewharvey",
             "repo": "geojson-id-streaming",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         }
@@ -400,12 +574,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mag: View geojson",
+            "homepage": null,
             "id": 52130214,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-11-02T19:47:21Z",
+            "open_issues": 5,
             "owner": "anandthakker",
             "repo": "gjv",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -416,12 +595,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A local development tool for experimenting with vector tiles",
+            "homepage": null,
             "id": 1056679393,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-03-03T10:52:49Z",
+            "open_issues": 0,
             "owner": "spider-hand",
             "repo": "vector-tile-lab",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "data-visualization",
+              "developer-tools",
+              "geojson",
+              "geospatial",
+              "gis",
+              "mapbox",
+              "maplibre",
+              "pmtiles",
+              "vector-tiles"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -432,12 +626,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby library for generating images from GeoJSON",
+            "homepage": "https://rubygems.org/gems/geojson2image",
             "id": 79367502,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-09-25T19:37:28Z",
+            "open_issues": 0,
             "owner": "brycejohnston",
             "repo": "geojson2image",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "chunky-png",
+              "geojson",
+              "png",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         }
@@ -454,12 +658,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pydantic data models for the GeoJSON spec",
+            "homepage": "https://developmentseed.org/geojson-pydantic/",
             "id": 265964613,
             "language": "Python",
-            "last_commit": "2026-08-25T07:02:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T17:23:55Z",
+            "open_issues": 9,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
-            "stars": 284
+            "stars": 285,
+            "topics": [
+              "geojson",
+              "geojson-spec",
+              "pydantic"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -470,12 +683,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "IMPORTANT: This repo will be archived. Use @placemarkio/check-geojson instead",
+            "homepage": null,
             "id": 11635008,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2024-05-28T13:50:42Z",
+            "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojsonhint",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -486,12 +704,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Correct GeoJSON geometries that cross the 180th meridian",
+            "homepage": "https://www.gadom.ski/antimeridian/",
             "id": 626665725,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T05:56:57Z",
+            "open_issues": 6,
             "owner": "gadomski",
             "repo": "antimeridian",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "antimeridian",
+              "geojson",
+              "geospatial",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -502,12 +730,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool in Python to fix invalid GeoJSON objects and files",
+            "homepage": null,
             "id": 378593107,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-22T10:47:59Z",
+            "open_issues": 2,
             "owner": "yazeed44",
             "repo": "gjf",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "command-line-tool",
+              "fix",
+              "geojson",
+              "python",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -518,12 +757,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a checker for the geojson format. goes beyond a schema, checking semantics and producing character-level warnings.",
+            "homepage": "http://check-geojson.docs.placemark.io/",
             "id": 368874709,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-18T14:08:30Z",
+            "open_issues": 6,
             "owner": "placemark",
             "repo": "check-geojson",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "geojson",
+              "linter",
+              "maps"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -534,12 +782,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoJSON Validation Matchers for Jest",
+            "homepage": "https://m-scott-lassiter.github.io/jest-geojson/",
             "id": 493429104,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-12T14:23:53Z",
+            "open_issues": 7,
             "owner": "M-Scott-Lassiter",
             "repo": "jest-geojson",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "assertions",
+              "geojson",
+              "gis",
+              "jest",
+              "jest-geojson",
+              "jest-matchers",
+              "jest-tests",
+              "matchers",
+              "test",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         }
@@ -556,12 +820,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "a cli for geojson.io",
+            "homepage": null,
             "id": 12706272,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2017-12-11T20:42:00Z",
+            "open_issues": 5,
             "owner": "mapbox",
             "repo": "geojsonio-cli",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -572,12 +841,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source Geoservices Implementation (deprecated)",
+            "homepage": "https://geoservices.github.io",
             "id": 58579794,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-13T12:06:37Z",
+            "open_issues": 27,
             "owner": "koopjs",
             "repo": "FeatureServer",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "arcgis",
+              "deprecated",
+              "geojson",
+              "geoservices",
+              "gis",
+              "javascript",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -588,12 +870,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "chrome extension for editing github files in geojson.io",
+            "homepage": "http://geojson.io/",
             "id": 11907110,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-01-29T20:56:23Z",
+            "open_issues": 0,
             "owner": "mapbox",
             "repo": "geojsonio-extension",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         }
@@ -610,12 +897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension of GeoJSON that encodes topology! 🌐",
+            "homepage": null,
             "id": 6714663,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-20T23:03:27Z",
+            "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4904
+            "stars": 4903,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -626,12 +918,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very fast geospatial point clustering library for browsers and Node.",
+            "homepage": null,
             "id": 47860620,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-08-10T09:43:43Z",
+            "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2352
+            "stars": 2352,
+            "topics": [
+              "algorithm",
+              "clustering",
+              "computational-geometry",
+              "javascript",
+              "maps"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -642,12 +945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slice GeoJSON into vector tiles on the fly in the browser",
+            "homepage": null,
             "id": 27469126,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-07-02T09:09:20Z",
+            "open_issues": 15,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2041
+            "stars": 2041,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -658,12 +966,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "convert KML, TCX, and GPX to GeoJSON, without the fuss",
+            "homepage": "https://placemark.github.io/togeojson/",
             "id": 166107133,
             "language": "TypeScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-05-31T17:10:03Z",
+            "open_issues": 13,
             "owner": "placemark",
             "repo": "togeojson",
-            "stars": 438
+            "stars": 438,
+            "topics": [
+              "geojson",
+              "gpx",
+              "kml",
+              "tcx"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -674,12 +992,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoJSON-emitting WKT parser for browsers and node",
+            "homepage": null,
             "id": 12704254,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-06-29T15:26:21Z",
+            "open_issues": 12,
             "owner": "mapbox",
             "repo": "wellknown",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -690,12 +1013,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "this repo is an ESRI toolbox and tool(s) that export ESRI Feature Classes to open data formats, CSV, JSON, and GeoJSON",
+            "homepage": null,
             "id": 8718832,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-12-21T13:24:38Z",
+            "open_issues": 10,
             "owner": "project-open-data",
             "repo": "esri2open",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -706,12 +1034,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encode spatial data as topology in Python! 🌍 https://mattijn.github.io/topojson",
+            "homepage": null,
             "id": 146140421,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-07-22T20:29:34Z",
+            "open_issues": 5,
             "owner": "mattijn",
             "repo": "topojson",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "geojson",
+              "python",
+              "simplification",
+              "spatial-data",
+              "topojson",
+              "topojson-format",
+              "topology"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -722,12 +1063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert GeoJSON to KML.",
+            "homepage": "http://mapbox.github.io/tokml/",
             "id": 13427749,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-29T15:20:53Z",
+            "open_issues": 10,
             "owner": "mapbox",
             "repo": "tokml",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -738,12 +1084,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoMet - Pure Python conversion library for common geospatial data formats",
+            "homepage": null,
             "id": 9200780,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-07T12:26:19Z",
+            "open_issues": 7,
             "owner": "geomet",
             "repo": "geomet",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "esri",
+              "ewkb",
+              "ewkt",
+              "geojson",
+              "geopackage",
+              "geospatial",
+              "gis",
+              "spatial",
+              "wkb",
+              "wkt"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -754,12 +1116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract GeoJSON from Mapbox vector tiles.",
+            "homepage": null,
             "id": 33996805,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-01-27T07:19:59Z",
+            "open_issues": 3,
             "owner": "developmentseed",
             "repo": "vt-geojson",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -770,12 +1137,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "modern parser & stringifier for WKT, EWKT, and GeoJSON",
+            "homepage": "https://placemark.github.io/betterknown/",
             "id": 527777545,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-17T22:33:07Z",
+            "open_issues": 4,
             "owner": "placemark",
             "repo": "betterknown",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "geojson",
+              "wkt"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -786,12 +1161,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.",
+            "homepage": null,
             "id": 18845285,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2025-09-17T22:26:48Z",
+            "open_issues": 3,
             "owner": "mapbox",
             "repo": "geojson-mapnikify",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -802,12 +1182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert GTFS data into GeoJSON.",
+            "homepage": null,
             "id": 44996268,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-11-14T16:51:50Z",
+            "open_issues": 1,
             "owner": "node-geojson",
             "repo": "gtfs2geojson",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -818,12 +1203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform streams of geojson into shapefile, kml, csv and other formats",
+            "homepage": null,
             "id": 46358160,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-06-16T14:32:58Z",
+            "open_issues": 1,
             "owner": "GeoXForm",
             "repo": "GeoXForm",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -834,12 +1224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "generate a static rtree (using terraformer) from a set of geojson features",
+            "homepage": null,
             "id": 18654104,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-04-10T22:32:52Z",
+            "open_issues": 2,
             "owner": "max-mapper",
             "repo": "geojson2rtree",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -855,12 +1250,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "magically convert csv files to geojson files",
+                "homepage": "http://mapbox.github.io/csv2geojson/",
                 "id": 5273411,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-29T14:37:22Z",
+                "open_issues": 17,
                 "owner": "mapbox",
                 "repo": "csv2geojson",
-                "stars": 373
+                "stars": 373,
+                "topics": [
+                  "banished"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -871,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "shuttle GeoJSON points into DSV encoding.",
+                "homepage": null,
                 "id": 15085720,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-05-03T21:49:07Z",
+                "open_issues": 1,
                 "owner": "node-geojson",
                 "repo": "geojson2dsv",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             }
@@ -894,12 +1301,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fiona reads and writes geographic data files",
+                "homepage": "https://fiona.readthedocs.io/",
                 "id": 3080628,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-02-20T23:53:44Z",
+                "open_issues": 58,
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1248
+                "stars": 1247,
+                "topics": [
+                  "cli",
+                  "cython",
+                  "gdal",
+                  "gis",
+                  "ogr",
+                  "python",
+                  "vector"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             }
@@ -917,12 +1337,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts GeoJSON to SVG string given SVG view port size and maps extent.",
+                "homepage": null,
                 "id": 18710037,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-26T03:58:31Z",
+                "open_issues": 0,
                 "owner": "gagan-bansal",
                 "repo": "geojson2svg",
-                "stars": 250
+                "stars": 250,
+                "topics": [
+                  "geojson",
+                  "javascript",
+                  "map",
+                  "maps",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -933,12 +1364,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Upload SVG, return GeoJSON.",
+                "homepage": "https://labs.mapbox.com/svg-to-geojson/",
                 "id": 126209252,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-20T21:12:02Z",
+                "open_issues": 10,
                 "owner": "mapbox",
                 "repo": "svg-to-geojson",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "data",
+                  "geojson",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -949,12 +1389,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line tool to convert GeoJSON to SVG.",
+                "homepage": "https://github.com/derhuerst/geojson-to-svg-cli",
                 "id": 92780671,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-01-01T14:45:10Z",
+                "open_issues": 0,
                 "owner": "derhuerst",
                 "repo": "geojson-to-svg-cli",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "cli",
+                  "convert",
+                  "geojson",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -965,12 +1415,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert GeoJSON geometry paths to SVG polyline elements.",
+                "homepage": null,
                 "id": 67946988,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-10-11T10:45:47Z",
+                "open_issues": 4,
                 "owner": "juliuste",
                 "repo": "geojson-svgify",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             }
@@ -988,12 +1445,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "convert osm to geojson",
+                "homepage": "http://tyrasd.github.io/osmtogeojson/",
                 "id": 13296600,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-23T02:49:39Z",
+                "open_issues": 59,
                 "owner": "tyrasd",
                 "repo": "osmtogeojson",
-                "stars": 750
+                "stars": 750,
+                "topics": [
+                  "geojson",
+                  "javascript",
+                  "openstreetmap",
+                  "openstreetmap-data",
+                  "overpass-turbo"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -1004,12 +1472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make queries to OpenStreetMap's overpass API and output as GeoJSON",
+                "homepage": null,
                 "id": 22246920,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-03-28T09:28:59Z",
+                "open_issues": 6,
                 "owner": "perliedman",
                 "repo": "query-overpass",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -1020,12 +1493,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert OSM and Overpass XML/JSON to GeoJSON",
+                "homepage": null,
                 "id": 185233972,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-19T13:46:42Z",
+                "open_issues": 2,
                 "owner": "rapkin",
                 "repo": "osm2geojson",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "geojson",
+                  "openstreetmap",
+                  "osm",
+                  "osm2geojson",
+                  "overpass-json",
+                  "overpass-xml"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -1036,12 +1521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts between OSM XML and GeoJSON",
+                "homepage": "http://aaronlidman.com/osm-and-geojson/",
                 "id": 11515428,
                 "language": "JavaScript",
+                "license": "WTFPL",
                 "last_commit": "2016-07-14T00:08:01Z",
+                "open_issues": 6,
                 "owner": "aaronlidman",
                 "repo": "osm-and-geojson",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -1052,12 +1542,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Osmium-based converter of OSM data to GeoJSON",
+                "homepage": null,
                 "id": 37200547,
                 "language": "C++",
+                "license": "ISC",
                 "last_commit": "2017-09-04T07:47:31Z",
+                "open_issues": 0,
                 "owner": "mapbox",
                 "repo": "minjur",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -1068,12 +1563,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert GeoJSON to OSM XML",
+                "homepage": null,
                 "id": 38205307,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-18T10:59:21Z",
+                "open_issues": 6,
                 "owner": "tyrasd",
                 "repo": "geojsontoosm",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "geojson",
+                  "openstreetmap-data"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -1084,12 +1587,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streams OSM data in XML format to GeoJSON.",
+                "homepage": null,
                 "id": 11511803,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-06-28T11:40:35Z",
+                "open_issues": 1,
                 "owner": "rclark",
                 "repo": "osm2geojson",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -1100,12 +1608,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert geojson to osm",
+                "homepage": null,
                 "id": 22773501,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-11-11T15:54:37Z",
+                "open_issues": 3,
                 "owner": "Rub21",
                 "repo": "geojson2osm",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             },
@@ -1116,12 +1629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoJSON to OSM ES6",
+                "homepage": "https://www.npmjs.com/package/geojson2osm-es6",
                 "id": 71855767,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2016-11-21T05:34:35Z",
+                "open_issues": 1,
                 "owner": "DenisCarriere",
                 "repo": "geojson2osm-es6",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
             }
@@ -1140,12 +1658,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗺 High Quality GeoJSON maps programmatically generated.",
+            "homepage": null,
             "id": 102195801,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-29T16:53:03Z",
+            "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1349
+            "stars": 1349,
+            "topics": [
+              "boundaries",
+              "country",
+              "earth",
+              "geojson",
+              "maps",
+              "political",
+              "world"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1156,12 +1687,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pre-built TopoJSON from Natural Earth.",
+            "homepage": "https://observablehq.com/@d3/world-map",
             "id": 8205065,
             "language": "Shell",
+            "license": "ISC",
             "last_commit": "2021-08-11T10:20:43Z",
+            "open_issues": 12,
             "owner": "topojson",
             "repo": "world-atlas",
-            "stars": 1241
+            "stars": 1241,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1172,12 +1708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-built TopoJSON from the U.S. Census Bureau.",
+            "homepage": "https://observablehq.com/@d3/u-s-map",
             "id": 8103046,
             "language": "Shell",
+            "license": "ISC",
             "last_commit": "2024-01-02T05:17:20Z",
+            "open_issues": 9,
             "owner": "topojson",
             "repo": "us-atlas",
-            "stars": 925
+            "stars": 925,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1188,12 +1729,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contours des régions, départements, arrondissements, cantons et communes de France (métropole et départements d'outre-mer) au format GeoJSON",
+            "homepage": "https://france-geojson.gregoiredavid.fr",
             "id": 18015059,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-02T14:25:58Z",
+            "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 828
+            "stars": 828,
+            "topics": [
+              "france",
+              "geojson"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1204,12 +1753,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on global or continental scale",
+            "homepage": null,
             "id": 122627482,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-26T18:39:42Z",
+            "open_issues": 37,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 790
+            "stars": 790,
+            "topics": [
+              "basemap",
+              "borders",
+              "geography",
+              "geojson",
+              "gis",
+              "history",
+              "map",
+              "mapping",
+              "maps",
+              "prehistory",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1220,12 +1786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export repo for country-levels",
+            "homepage": null,
             "id": 253952844,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-07T18:08:34Z",
+            "open_issues": 0,
             "owner": "hyperknot",
             "repo": "country-levels-export",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1236,12 +1807,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download and reformat OpenFlights.org data into GeoJSON.",
+            "homepage": null,
             "id": 35965215,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-10T21:15:17Z",
+            "open_issues": 0,
             "owner": "node-geojson",
             "repo": "openflights-geojson",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1252,12 +1828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export runs from Strava into GeoJSON.",
+            "homepage": null,
             "id": 36050253,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-05-08T20:14:09Z",
+            "open_issues": 0,
             "owner": "node-geojson",
             "repo": "strava-geojson",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1268,12 +1849,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenStreetMap Boundaries for the World!",
+            "homepage": "https://99boundaries.com",
             "id": 488226774,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-03T21:38:13Z",
+            "open_issues": 0,
             "owner": "TimMcCauley",
             "repo": "nintynine-boundaries",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "countries",
+              "gis",
+              "openstreetmap",
+              "osm",
+              "overpass",
+              "overpass-api"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1284,12 +1877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Getty Thesaurus of Geographic Names (TGN). As GeoJSON.",
+            "homepage": null,
             "id": 23262711,
             "language": null,
+            "license": null,
             "last_commit": "2015-10-25T04:21:06Z",
+            "open_issues": 0,
             "owner": "straup",
             "repo": "tgn-geojson",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1300,12 +1898,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 2442487,
             "language": "Python",
+            "license": null,
             "last_commit": "2013-06-14T22:01:54Z",
+            "open_issues": 0,
             "owner": "woeplanet-data",
             "repo": "whereonearth-airport",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1316,12 +1919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 2647583,
             "language": null,
+            "license": null,
             "last_commit": "2011-11-01T17:04:48Z",
+            "open_issues": 0,
             "owner": "straup",
             "repo": "whereonearth-building",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1332,12 +1940,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create and edit geojson from Strava activities",
+            "homepage": null,
             "id": 14754441,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-05T22:25:48Z",
+            "open_issues": 1,
             "owner": "taketime",
             "repo": "strava-to-geojsonio",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         }
@@ -1354,12 +1967,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings and utilities for GeoJSON",
+            "homepage": "https://pypi.python.org/pypi/geojson/",
             "id": 1985351,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-06T03:39:01Z",
+            "open_issues": 24,
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 994
+            "stars": 994,
+            "topics": [
+              "geojson",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1370,12 +1991,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Mapbox Java SDK – Java wrappers around Mapbox APIs and other location data ",
+            "homepage": "https://docs.mapbox.com/android/java/overview/",
             "id": 55638412,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-31T12:04:53Z",
+            "open_issues": 85,
             "owner": "mapbox",
             "repo": "mapbox-java",
-            "stars": 438
+            "stars": 439,
+            "topics": [
+              "android",
+              "directions",
+              "geocoding",
+              "geojson",
+              "java",
+              "mapbox",
+              "navigation",
+              "turf"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1386,12 +2021,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for serializing the GeoJSON vector GIS file format",
+            "homepage": "https://crates.io/crates/geojson",
             "id": 24011994,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-29T23:32:48Z",
+            "open_issues": 22,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 344
+            "stars": 344,
+            "topics": [
+              "geojson",
+              "geospatial",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1402,12 +2046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoJson POJOs for Jackson - serialize and deserialize objects with ease",
+            "homepage": "http://blog.opendatalab.de",
             "id": 11447453,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-11T20:09:45Z",
+            "open_issues": 26,
             "owner": "opendatalab-de",
             "repo": "geojson-jackson",
-            "stars": 276
+            "stars": 276,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1418,12 +2067,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RGeo component for reading and writing GeoJSON",
+            "homepage": "https://rgeo.info",
             "id": 1144211,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-10T10:57:29Z",
+            "open_issues": 13,
             "owner": "rgeo",
             "repo": "rgeo-geojson",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "geojson",
+              "rgeo",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -1434,12 +2092,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library with a JsonSerializer and a set of annotations to serialize any PoJo as GeoJSON.",
+            "homepage": null,
             "id": 193111955,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-14T22:43:49Z",
+            "open_issues": 2,
             "owner": "ancore",
             "repo": "geojson-serializer",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "geojson",
+              "jackson-databind",
+              "jackson-datatype-jts",
+              "jts-topology-suite"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         }
@@ -1448,15 +2116,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:23:03.168Z",
+    "last_updated": "2026-08-29T03:55:23.573Z",
     "original_repository_info": {
       "archived": false,
+      "description": "GeoJSON utilities that will make your life easier.",
+      "homepage": null,
       "id": 36456042,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-23T13:51:40Z",
+      "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2531
+      "stars": 2531,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "geojson",
+        "list"
+      ]
     },
     "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
     "enhanced_repository": "enhansome/enhansome-geojson",
