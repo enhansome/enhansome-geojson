@@ -15,7 +15,7 @@
             "id": 13301038,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T14:36:41Z",
+            "last_commit": "2026-08-31T19:10:41Z",
             "open_issues": 284,
             "owner": "Turfjs",
             "repo": "turf",
@@ -1307,7 +1307,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-02-20T23:53:44Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "Toblerity",
                 "repo": "Fiona",
                 "stars": 1247,
@@ -1717,7 +1717,7 @@
             "open_issues": 9,
             "owner": "topojson",
             "repo": "us-atlas",
-            "stars": 925,
+            "stars": 926,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1738,7 +1738,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 828,
+            "stars": 829,
             "topics": [
               "france",
               "geojson"
@@ -1762,7 +1762,7 @@
             "open_issues": 37,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 792,
+            "stars": 793,
             "topics": [
               "basemap",
               "borders",
@@ -2116,7 +2116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:55:38.803Z",
+    "last_updated": "2026-09-01T01:26:42.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
