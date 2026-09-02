@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-31T19:10:41Z",
-            "open_issues": 284,
+            "open_issues": 285,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10462,
+            "stars": 10463,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -50,7 +50,7 @@
             "open_issues": 18,
             "owner": "max-mapper",
             "repo": "geojson-js-utils",
-            "stars": 403,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -709,7 +709,7 @@
             "id": 626665725,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-25T05:56:57Z",
+            "last_commit": "2026-09-01T22:25:48Z",
             "open_issues": 6,
             "owner": "gadomski",
             "repo": "antimeridian",
@@ -806,6 +806,34 @@
             ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
+        },
+        {
+          "node_type": "item",
+          "title": "eudr-geojson-fixtures",
+          "description": "test fixtures for EUDR geolocation data: valid plot examples plus common failure modes like axis swaps and self-intersecting rings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open test fixtures for validating EUDR geolocation files (GeoJSON, KML, CSV) under Regulation (EU) 2023/1115",
+            "homepage": "https://filovara.com/eudr/geojson-validator",
+            "id": 1335545946,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-08-16T01:40:46Z",
+            "open_issues": 0,
+            "owner": "vancebw",
+            "repo": "eudr-geojson-fixtures",
+            "stars": 0,
+            "topics": [
+              "eu-deforestation-regulation",
+              "eudr",
+              "geojson",
+              "geolocation",
+              "gis",
+              "test-fixtures"
+            ]
+          },
+          "first_seen": "2026-09-02T00:35:15.917Z"
         }
       ],
       "title": "validation"
@@ -906,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4904,
+            "stars": 4903,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -927,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2352,
+            "stars": 2354,
             "topics": [
               "algorithm",
               "clustering",
@@ -1307,7 +1335,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-02-20T23:53:44Z",
-                "open_issues": 59,
+                "open_issues": 58,
                 "owner": "Toblerity",
                 "repo": "Fiona",
                 "stars": 1247,
@@ -1667,7 +1695,7 @@
             "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1349,
+            "stars": 1350,
             "topics": [
               "boundaries",
               "country",
@@ -1762,7 +1790,7 @@
             "open_issues": 37,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 793,
+            "stars": 795,
             "topics": [
               "basemap",
               "borders",
@@ -2030,7 +2058,7 @@
             "open_issues": 22,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "geojson",
               "geospatial",
@@ -2116,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:26:42.710Z",
+    "last_updated": "2026-09-02T00:35:15.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2124,11 +2152,11 @@
       "id": 36456042,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-23T13:51:40Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-01T11:55:22Z",
+      "open_issues": 0,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2532,
+      "stars": 2535,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2136,7 +2164,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "2feacc5f65d814a868ab61ec5ae31c21109f1f3a",
+    "original_repository_sha": "6ac04e377d780832be87ed7a7c2b939aff5fec7b",
     "enhanced_repository": "enhansome/enhansome-geojson",
     "enhanced_repository_description": null,
     "title": "awesome geojson with stars"
