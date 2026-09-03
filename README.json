@@ -19,7 +19,7 @@
             "open_issues": 285,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10463,
+            "stars": 10464,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -709,7 +709,7 @@
             "id": 626665725,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T22:25:48Z",
+            "last_commit": "2026-09-02T21:59:56Z",
             "open_issues": 6,
             "owner": "gadomski",
             "repo": "antimeridian",
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2354,
+            "stars": 2355,
             "topics": [
               "algorithm",
               "clustering",
@@ -978,11 +978,11 @@
             "id": 27469126,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-07-02T09:09:20Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-02T16:22:13Z",
+            "open_issues": 14,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2041,
+            "stars": 2042,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:35:15.917Z",
+    "last_updated": "2026-09-03T00:45:15.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 0,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2535,
+      "stars": 2536,
       "topics": [
         "awesome",
         "awesome-list",
