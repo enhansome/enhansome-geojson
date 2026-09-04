@@ -19,7 +19,7 @@
             "open_issues": 285,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10464,
+            "stars": 10467,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -709,8 +709,8 @@
             "id": 626665725,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T21:59:56Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-03T22:28:08Z",
+            "open_issues": 4,
             "owner": "gadomski",
             "repo": "antimeridian",
             "stars": 110,
@@ -951,7 +951,7 @@
             "id": 47860620,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-08-10T09:43:43Z",
+            "last_commit": "2026-09-03T08:35:00Z",
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
@@ -978,11 +978,11 @@
             "id": 27469126,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-02T16:22:13Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-03T14:52:07Z",
+            "open_issues": 13,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2042,
+            "stars": 2043,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1526,8 +1526,8 @@
                 "id": 185233972,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-19T13:46:42Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-03T11:09:28Z",
+                "open_issues": 3,
                 "owner": "rapkin",
                 "repo": "osm2geojson",
                 "stars": 113,
@@ -1724,7 +1724,7 @@
             "open_issues": 12,
             "owner": "topojson",
             "repo": "world-atlas",
-            "stars": 1242,
+            "stars": 1241,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1766,7 +1766,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "france",
               "geojson"
@@ -1790,7 +1790,7 @@
             "open_issues": 37,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 795,
+            "stars": 797,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:45:15.225Z",
+    "last_updated": "2026-09-04T00:27:53.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
