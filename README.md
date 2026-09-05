@@ -53,7 +53,7 @@ GeoJSON utilities that will make your life easier.
 
 ### validation
 
-* [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 285 | 🐛 9 | 🌐 Python | 📅 2026-08-28: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
+* [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 285 | 🐛 10 | 🌐 Python | 📅 2026-09-04: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 * [geojsonhint](https://github.com/mapbox/geojsonhint) ⚠️ Archived: find errors in your geojson files
 * [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 110 | 🐛 4 | 🌐 Python | 📅 2026-09-03: Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [gjf](https://github.com/yazeed44/gjf) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2021-06-22: A tool to fix invalid GeoJSON objects
@@ -75,8 +75,8 @@ GeoJSON utilities that will make your life easier.
 ### conversion
 
 * [topojson](https://github.com/topojson/topojson) ⭐ 4,903 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
-* [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,355 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-03: A fast GeoJSON clustering library for browsers and Node.
-* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,043 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-03: Slice GeoJSON into vector tiles on the fly in the browser
+* [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,356 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-03: A fast GeoJSON clustering library for browsers and Node.
+* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,045 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-03: Slice GeoJSON into vector tiles on the fly in the browser
 * [togeojson](https://github.com/tmcw/togeojson) ⭐ 439 | 🐛 13 | 🌐 TypeScript | 📅 2025-05-31: convert GPX & KML to geojson
 * [wellknown](https://github.com/mapbox/wellknown) ⭐ 281 | 🐛 12 | 🌐 JavaScript | 📅 2026-06-29: convert WKT to GeoJSON
 * [esri2open](https://github.com/project-open-data/esri2open) ⚠️ Archived converts proprietary Esri formats to GeoJSON
@@ -118,7 +118,7 @@ GeoJSON utilities that will make your life easier.
 * [geo-maps](https://github.com/simonepri/geo-maps) ⭐ 1,350 | 🐛 16 | 🌐 JavaScript | 📅 2019-05-29: High Quality GeoJSON maps programmatically generated.
 * [world-atlas](https://github.com/topojson/world-atlas) ⚠️ Archived: customizable simplified versions of natural earth data
 * [us-atlas](https://github.com/topojson/us-atlas) ⭐ 926 | 🐛 9 | 🌐 Shell | 📅 2024-01-02: geojson & topojson for United States features
-* [france-geojson](https://github.com/gregoiredavid/france-geojson) ⭐ 830 | 🐛 17 | 📅 2022-12-02: Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
+* [france-geojson](https://github.com/gregoiredavid/france-geojson) ⭐ 831 | 🐛 17 | 📅 2022-12-02: Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 * [historical-basemaps](https://github.com/aourednik/historical-basemaps) ⭐ 797 | 🐛 37 | 🌐 JavaScript | 📅 2026-01-26: Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 * [country-levels](https://github.com/hyperknot/country-levels-export) ⭐ 31 | 🐛 0 | 📅 2020-05-07 Full planet GeoJSON extracts, based on ISO and FIPS codes.
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-10: [openflights](http://openflights.org/) airports & airplane routes
@@ -138,7 +138,7 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 994 | 🐛 24 | 🌐 Python | 📅 2026-06-06: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 438 | 🐛 85 | 🌐 Java | 📅 2026-07-31: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,233 | 🐛 344 | 🌐 Java | 📅 2026-09-01)
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 438 | 🐛 85 | 🌐 Java | 📅 2026-07-31: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,234 | 🐛 345 | 🌐 Java | 📅 2026-09-01)
 * [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 345 | 🐛 22 | 🌐 Rust | 📅 2026-04-29: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 276 | 🐛 26 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 205 | 🐛 13 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
@@ -159,4 +159,4 @@ To the extent possible under law, [Tom MacWright](http://www.macwright.org) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
