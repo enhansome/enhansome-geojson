@@ -19,7 +19,7 @@
             "open_issues": 285,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10471,
+            "stars": 10472,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1787,7 +1787,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-01-26T18:39:42Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "aourednik",
             "repo": "historical-basemaps",
             "stars": 799,
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:15:47.996Z",
+    "last_updated": "2026-09-07T00:22:56.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
