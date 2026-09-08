@@ -15,11 +15,11 @@
             "id": 13301038,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T19:10:41Z",
+            "last_commit": "2026-09-07T19:17:44Z",
             "open_issues": 285,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10472,
+            "stars": 10473,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1766,7 +1766,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "france",
               "geojson"
@@ -1790,7 +1790,7 @@
             "open_issues": 38,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 799,
+            "stars": 802,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:22:56.241Z",
+    "last_updated": "2026-09-08T00:44:21.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 0,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2536,
+      "stars": 2537,
       "topics": [
         "awesome",
         "awesome-list",
