@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-07T19:17:44Z",
-            "open_issues": 285,
+            "open_issues": 287,
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10474,
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2356,
+            "stars": 2358,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2044,
+            "stars": 2052,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1790,7 +1790,7 @@
             "open_issues": 38,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 802,
+            "stars": 803,
             "topics": [
               "basemap",
               "borders",
@@ -2058,7 +2058,7 @@
             "open_issues": 22,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "geojson",
               "geospatial",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:43:40.272Z",
+    "last_updated": "2026-09-10T00:39:52.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 0,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2537,
+      "stars": 2538,
       "topics": [
         "awesome",
         "awesome-list",
