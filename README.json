@@ -19,7 +19,7 @@
             "open_issues": 287,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10474,
+            "stars": 10476,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -201,7 +201,7 @@
             "id": 290911971,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-07-10T14:18:11Z",
+            "last_commit": "2026-09-10T13:51:07Z",
             "open_issues": 32,
             "owner": "dartclub",
             "repo": "turf_dart",
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4903,
+            "stars": 4902,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2358,
+            "stars": 2363,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2052,
+            "stars": 2064,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1695,7 +1695,7 @@
             "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1350,
+            "stars": 1351,
             "topics": [
               "boundaries",
               "country",
@@ -1786,11 +1786,11 @@
             "id": 122627482,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-01-26T18:39:42Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-10T19:35:07Z",
+            "open_issues": 21,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 803,
+            "stars": 804,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:39:52.865Z",
+    "last_updated": "2026-09-11T00:37:21.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
