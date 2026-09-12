@@ -19,7 +19,7 @@
             "open_issues": 287,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10476,
+            "stars": 10479,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -68,7 +68,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2024-11-25T15:52:44Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "mapbox",
             "repo": "geojson-merge",
             "stars": 244,
@@ -667,7 +667,7 @@
             "open_issues": 10,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "geojson",
               "geojson-spec",
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2363,
+            "stars": 2367,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2064,
+            "stars": 2068,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1786,11 +1786,11 @@
             "id": 122627482,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T19:35:07Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-11T03:34:24Z",
+            "open_issues": 12,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 804,
+            "stars": 806,
             "topics": [
               "basemap",
               "borders",
@@ -2025,7 +2025,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-07-31T12:04:53Z",
-            "open_issues": 85,
+            "open_issues": 84,
             "owner": "mapbox",
             "repo": "mapbox-java",
             "stars": 438,
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:37:21.385Z",
+    "last_updated": "2026-09-12T00:43:19.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
