@@ -19,7 +19,7 @@
             "open_issues": 287,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10479,
+            "stars": 10481,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2367,
+            "stars": 2369,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2068,
+            "stars": 2069,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1050,7 +1050,7 @@
             "open_issues": 10,
             "owner": "project-open-data",
             "repo": "esri2open",
-            "stars": 265,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1790,7 +1790,7 @@
             "open_issues": 12,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 806,
+            "stars": 807,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:43:19.991Z",
+    "last_updated": "2026-09-13T00:27:05.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
