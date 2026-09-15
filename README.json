@@ -277,8 +277,8 @@
             "id": 15593367,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2023-10-07T07:23:06Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-14T15:50:58Z",
+            "open_issues": 4,
             "owner": "tmcw",
             "repo": "geojson-flatten",
             "stars": 54,
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2371,
+            "stars": 2372,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2069,
+            "stars": 2072,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1790,7 +1790,7 @@
             "open_issues": 13,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 807,
+            "stars": 808,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:29:36.880Z",
+    "last_updated": "2026-09-15T00:59:25.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 0,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2538,
+      "stars": 2539,
       "topics": [
         "awesome",
         "awesome-list",
