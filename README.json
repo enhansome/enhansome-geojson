@@ -19,7 +19,7 @@
             "open_issues": 288,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10482,
+            "stars": 10485,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -277,8 +277,8 @@
             "id": 15593367,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-14T15:50:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-16T00:18:51Z",
+            "open_issues": 0,
             "owner": "tmcw",
             "repo": "geojson-flatten",
             "stars": 54,
@@ -1786,11 +1786,11 @@
             "id": 122627482,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T03:34:24Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-15T12:38:01Z",
+            "open_issues": 12,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 808,
+            "stars": 809,
             "topics": [
               "basemap",
               "borders",
@@ -2058,7 +2058,7 @@
             "open_issues": 22,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 346,
+            "stars": 347,
             "topics": [
               "geojson",
               "geospatial",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:59:25.712Z",
+    "last_updated": "2026-09-16T00:51:38.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
