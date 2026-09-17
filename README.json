@@ -19,7 +19,7 @@
             "open_issues": 288,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10485,
+            "stars": 10487,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -201,7 +201,7 @@
             "id": 290911971,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-10T13:51:07Z",
+            "last_commit": "2026-09-16T08:58:23Z",
             "open_issues": 32,
             "owner": "dartclub",
             "repo": "turf_dart",
@@ -604,7 +604,7 @@
             "open_issues": 0,
             "owner": "spider-hand",
             "repo": "vector-tile-lab",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "data-visualization",
               "developer-tools",
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2372,
+            "stars": 2374,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2072,
+            "stars": 2076,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1790,7 +1790,7 @@
             "open_issues": 12,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 809,
+            "stars": 811,
             "topics": [
               "basemap",
               "borders",
@@ -2004,7 +2004,7 @@
             "open_issues": 24,
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 994,
+            "stars": 993,
             "topics": [
               "geojson",
               "python"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T00:51:38.111Z",
+    "last_updated": "2026-09-17T00:54:53.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
