@@ -4,7 +4,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,487 | 🐛 288 | 🌐 TypeScript | 📅 2026-09-07: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,488 | 🐛 288 | 🌐 TypeScript | 📅 2026-09-07: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 402 | 🐛 18 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 244 | 🐛 16 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -74,9 +74,9 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-* [topojson](https://github.com/topojson/topojson) ⭐ 4,902 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
-* [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,374 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-03: A fast GeoJSON clustering library for browsers and Node.
-* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,076 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-05: Slice GeoJSON into vector tiles on the fly in the browser
+* [topojson](https://github.com/topojson/topojson) ⭐ 4,903 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
+* [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,375 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-03: A fast GeoJSON clustering library for browsers and Node.
+* [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,077 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-05: Slice GeoJSON into vector tiles on the fly in the browser
 * [togeojson](https://github.com/tmcw/togeojson) ⭐ 439 | 🐛 13 | 🌐 TypeScript | 📅 2025-05-31: convert GPX & KML to geojson
 * [wellknown](https://github.com/mapbox/wellknown) ⭐ 281 | 🐛 12 | 🌐 JavaScript | 📅 2026-06-29: convert WKT to GeoJSON
 * [esri2open](https://github.com/project-open-data/esri2open) ⚠️ Archived converts proprietary Esri formats to GeoJSON
@@ -119,7 +119,7 @@ GeoJSON utilities that will make your life easier.
 * [world-atlas](https://github.com/topojson/world-atlas) ⚠️ Archived: customizable simplified versions of natural earth data
 * [us-atlas](https://github.com/topojson/us-atlas) ⭐ 927 | 🐛 9 | 🌐 Shell | 📅 2024-01-02: geojson & topojson for United States features
 * [france-geojson](https://github.com/gregoiredavid/france-geojson) ⭐ 832 | 🐛 17 | 📅 2022-12-02: Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
-* [historical-basemaps](https://github.com/aourednik/historical-basemaps) ⭐ 811 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-15: Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+* [historical-basemaps](https://github.com/aourednik/historical-basemaps) ⭐ 813 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-15: Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 * [country-levels](https://github.com/hyperknot/country-levels-export) ⭐ 31 | 🐛 0 | 📅 2020-05-07 Full planet GeoJSON extracts, based on ISO and FIPS codes.
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-10: [openflights](http://openflights.org/) airports & airplane routes
 * [strava-geojson](https://github.com/tmcw/strava-geojson) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-08: export *all* strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
@@ -159,4 +159,4 @@ To the extent possible under law, [Tom MacWright](http://www.macwright.org) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
