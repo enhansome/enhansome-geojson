@@ -19,7 +19,7 @@
             "open_issues": 288,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10488,
+            "stars": 10489,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -663,8 +663,8 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:25:39Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-18T22:53:17Z",
+            "open_issues": 11,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
             "stars": 286,
@@ -709,7 +709,7 @@
             "id": 626665725,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T22:28:08Z",
+            "last_commit": "2026-09-18T11:55:16Z",
             "open_issues": 4,
             "owner": "gadomski",
             "repo": "antimeridian",
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2375,
+            "stars": 2376,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2077,
+            "stars": 2078,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1787,10 +1787,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-15T12:38:01Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 813,
+            "stars": 814,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:49:43.686Z",
+    "last_updated": "2026-09-19T00:42:19.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
