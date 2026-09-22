@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-07T19:17:44Z",
-            "open_issues": 288,
+            "open_issues": 289,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10491,
+            "stars": 10490,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -277,7 +277,7 @@
             "id": 15593367,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-16T00:18:51Z",
+            "last_commit": "2026-09-21T19:07:05Z",
             "open_issues": 0,
             "owner": "tmcw",
             "repo": "geojson-flatten",
@@ -663,8 +663,8 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T22:53:17Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-21T10:52:41Z",
+            "open_issues": 5,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
             "stars": 286,
@@ -710,7 +710,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T11:55:16Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "gadomski",
             "repo": "antimeridian",
             "stars": 110,
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4903,
+            "stars": 4905,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2376,
+            "stars": 2377,
             "topics": [
               "algorithm",
               "clustering",
@@ -1526,8 +1526,8 @@
                 "id": 185233972,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T11:09:28Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-21T11:59:13Z",
+                "open_issues": 2,
                 "owner": "rapkin",
                 "repo": "osm2geojson",
                 "stars": 113,
@@ -1790,7 +1790,7 @@
             "open_issues": 11,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 818,
+            "stars": 820,
             "topics": [
               "basemap",
               "borders",
@@ -2004,7 +2004,7 @@
             "open_issues": 25,
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 994,
+            "stars": 996,
             "topics": [
               "geojson",
               "python"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:34:22.517Z",
+    "last_updated": "2026-09-22T01:15:31.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2540,
+      "stars": 2541,
       "topics": [
         "awesome",
         "awesome-list",
