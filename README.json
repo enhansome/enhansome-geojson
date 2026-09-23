@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10490,
+            "stars": 10493,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -713,7 +713,7 @@
             "open_issues": 5,
             "owner": "gadomski",
             "repo": "antimeridian",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "antimeridian",
               "geojson",
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4905,
+            "stars": 4906,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -955,7 +955,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2377,
+            "stars": 2378,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2079,
+            "stars": 2078,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1787,10 +1787,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-15T12:38:01Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 820,
+            "stars": 822,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:15:31.193Z",
+    "last_updated": "2026-09-23T00:58:41.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2541,
+      "stars": 2542,
       "topics": [
         "awesome",
         "awesome-list",
