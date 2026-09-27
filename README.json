@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10494,
+            "stars": 10496,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -978,7 +978,7 @@
             "id": 27469126,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-05T20:49:38Z",
+            "last_commit": "2026-09-26T18:04:17Z",
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
@@ -1695,7 +1695,7 @@
             "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1351,
+            "stars": 1352,
             "topics": [
               "boundaries",
               "country",
@@ -1724,7 +1724,7 @@
             "open_issues": 12,
             "owner": "topojson",
             "repo": "world-atlas",
-            "stars": 1241,
+            "stars": 1240,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:57:23.693Z",
+    "last_updated": "2026-09-27T00:57:54.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
