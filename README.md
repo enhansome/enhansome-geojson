@@ -17,13 +17,13 @@ GeoJSON utilities that will make your life easier.
 * [geojson-shave](https://github.com/ben-n93/geojson-shave) ⭐ 75 | 🐛 1 | 🌐 Python | 📅 2026-08-29: a Python command-line tool for reducing the size of GeoJSON files.
 * [geojson-flatten](https://github.com/tmcw/geojson-flatten) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-21: flatten multi geometries into normal geometries
 * [geojson-join](https://github.com/tmcw/geojson-join) ⚠️ Archived: join geojson against json, dbf, and csv files
-* [geojson-summary](https://github.com/mapbox/geojson-summary) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-13: get a plain-english summary of what's in a geojson file
+* [geojson-summary](https://github.com/mapbox/geojson-summary) ⭐ 35 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-13: get a plain-english summary of what's in a geojson file
 * [geojson-normalize](https://github.com/mapbox/geojson-normalize) ⭐ 34 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-13: normalize any geojson object into a geojson featurecollection
 * [geojson-coords](https://github.com/mapbox/geojson-coords) ⭐ 33 | 🐛 2 | 🌐 JavaScript | 📅 2026-06-24: Extract coordinates from GeoJSON
 * [de9im](https://github.com/dpmcmlxxvi/de9im) ⭐ 31 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-12: collection of fast functions for spatial javascript operations
 * [geojsontools](https://github.com/micolous/geojsontools) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2016-11-06: Python tools for manipulating GeoJSON files
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-20: extract shared borders of Polygons in a GeoJSON
-* [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-28: Converts polygon winding order between rfc7946 and [d3 compatible](https://github.com/d3/d3-geo#d3-geo) ⭐ 1,105 | 🐛 34 | 🌐 JavaScript | 📅 2024-06-28 conventions.
+* [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-28: Converts polygon winding order between rfc7946 and [d3 compatible](https://github.com/d3/d3-geo#d3-geo) ⭐ 1,107 | 🐛 34 | 🌐 JavaScript | 📅 2024-06-28 conventions.
 * [geojson-indoor-tools](https://github.com/armanjr/geojson-indoor-tools) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-01-24: Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 * [geojson-multiply](https://github.com/haoliangyu/geojson-multiply) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-06:  merge normal geojson features into one multi geometry type feature
 * [geo\_assigner](https://github.com/stadt-karlsruhe/geo_assigner) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2017-09-15: Copy a property to all intersecting features
@@ -76,13 +76,13 @@ GeoJSON utilities that will make your life easier.
 ### conversion
 
 * [topojson](https://github.com/topojson/topojson) ⭐ 4,906 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
-* [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,380 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-03: A fast GeoJSON clustering library for browsers and Node.
+* [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,380 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-03: A fast GeoJSON clustering library for browsers and Node.
 * [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,078 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-26: Slice GeoJSON into vector tiles on the fly in the browser
-* [togeojson](https://github.com/tmcw/togeojson) ⭐ 439 | 🐛 13 | 🌐 TypeScript | 📅 2025-05-31: convert GPX & KML to geojson
+* [togeojson](https://github.com/tmcw/togeojson) ⭐ 439 | 🐛 14 | 🌐 TypeScript | 📅 2025-05-31: convert GPX & KML to geojson
 * [wellknown](https://github.com/mapbox/wellknown) ⭐ 281 | 🐛 12 | 🌐 JavaScript | 📅 2026-06-29: convert WKT to GeoJSON
 * [esri2open](https://github.com/project-open-data/esri2open) ⚠️ Archived converts proprietary Esri formats to GeoJSON
 * [topojson for Python](https://github.com/mattijn/topojson) ⭐ 198 | 🐛 5 | 🌐 Python | 📅 2025-07-22: Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
-* [tokml](https://github.com/mapbox/tokml) ⭐ 193 | 🐛 10 | 🌐 JavaScript | 📅 2026-06-29: convert GeoJSON to KML
+* [tokml](https://github.com/mapbox/tokml) ⭐ 193 | 🐛 11 | 🌐 JavaScript | 📅 2026-06-29: convert GeoJSON to KML
 * [geomet](https://github.com/geomet/geomet) ⭐ 176 | 🐛 7 | 🌐 Python | 📅 2025-06-07: Pure Python conversion library for common geospatial data formats
 * [vt-geojson](https://github.com/developmentseed/vt-geojson) ⭐ 61 | 🐛 3 | 🌐 JavaScript | 📅 2016-01-27: Extract GeoJSON from Mapbox vector tiles
 * [betterknown](https://github.com/placemark/betterknown) ⭐ 59 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-17: convert WKT to GeoJSON (successor to wellknown)
@@ -139,7 +139,7 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 996 | 🐛 25 | 🌐 Python | 📅 2026-06-06: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 438 | 🐛 84 | 🌐 Java | 📅 2026-07-31: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,234 | 🐛 328 | 🌐 Java | 📅 2026-09-16)
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 438 | 🐛 84 | 🌐 Java | 📅 2026-07-31: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,235 | 🐛 328 | 🌐 Java | 📅 2026-09-16)
 * [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 347 | 🐛 22 | 🌐 Rust | 📅 2026-04-29: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 276 | 🐛 26 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 205 | 🐛 13 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
@@ -160,4 +160,4 @@ To the extent possible under law, [Tom MacWright](http://www.macwright.org) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
