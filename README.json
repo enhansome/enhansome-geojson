@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10499,
+            "stars": 10501,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -604,7 +604,7 @@
             "open_issues": 0,
             "owner": "spider-hand",
             "repo": "vector-tile-lab",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "data-visualization",
               "developer-tools",
@@ -1790,7 +1790,7 @@
             "open_issues": 13,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "basemap",
               "borders",
@@ -2001,7 +2001,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-06T03:39:01Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "jazzband",
             "repo": "geojson",
             "stars": 996,
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:20:29.299Z",
+    "last_updated": "2026-09-30T01:38:52.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
