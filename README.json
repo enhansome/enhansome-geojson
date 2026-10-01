@@ -15,7 +15,7 @@
             "id": 13301038,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T19:17:44Z",
+            "last_commit": "2026-09-30T17:20:56Z",
             "open_issues": 289,
             "owner": "Turfjs",
             "repo": "turf",
@@ -955,7 +955,7 @@
             "open_issues": 33,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2380,
+            "stars": 2382,
             "topics": [
               "algorithm",
               "clustering",
@@ -978,7 +978,7 @@
             "id": 27469126,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-28T09:00:52Z",
+            "last_commit": "2026-09-30T14:41:39Z",
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
@@ -1745,7 +1745,7 @@
             "open_issues": 9,
             "owner": "topojson",
             "repo": "us-atlas",
-            "stars": 927,
+            "stars": 928,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -2004,7 +2004,7 @@
             "open_issues": 26,
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 996,
+            "stars": 997,
             "topics": [
               "geojson",
               "python"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:38:52.248Z",
+    "last_updated": "2026-10-01T01:37:48.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
