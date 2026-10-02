@@ -19,7 +19,7 @@
             "open_issues": 289,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10501,
+            "stars": 10503,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4906,
+            "stars": 4905,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1003,7 +1003,7 @@
             "open_issues": 14,
             "owner": "placemark",
             "repo": "togeojson",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "geojson",
               "gpx",
@@ -1338,7 +1338,7 @@
                 "open_issues": 58,
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": [
                   "cli",
                   "cython",
@@ -1766,7 +1766,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "france",
               "geojson"
@@ -1790,7 +1790,7 @@
             "open_issues": 13,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 826,
+            "stars": 829,
             "topics": [
               "basemap",
               "borders",
@@ -2104,7 +2104,7 @@
             "open_issues": 13,
             "owner": "rgeo",
             "repo": "rgeo-geojson",
-            "stars": 205,
+            "stars": 204,
             "topics": [
               "geojson",
               "rgeo",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:37:48.579Z",
+    "last_updated": "2026-10-02T01:50:11.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
