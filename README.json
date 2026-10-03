@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-30T17:20:56Z",
-            "open_issues": 289,
+            "open_issues": 290,
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10503,
@@ -955,7 +955,7 @@
             "open_issues": 33,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2382,
+            "stars": 2381,
             "topics": [
               "algorithm",
               "clustering",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:50:11.938Z",
+    "last_updated": "2026-10-03T01:29:24.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
