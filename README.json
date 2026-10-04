@@ -19,7 +19,7 @@
             "open_issues": 290,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10503,
+            "stars": 10504,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1067,8 +1067,8 @@
             "id": 146140421,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2025-07-22T20:29:34Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T22:24:34Z",
+            "open_issues": 6,
             "owner": "mattijn",
             "repo": "topojson",
             "stars": 198,
@@ -1695,7 +1695,7 @@
             "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1352,
+            "stars": 1353,
             "topics": [
               "boundaries",
               "country",
@@ -1790,7 +1790,7 @@
             "open_issues": 13,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "basemap",
               "borders",
@@ -2058,7 +2058,7 @@
             "open_issues": 22,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "geojson",
               "geospatial",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:47:44.016Z",
+    "last_updated": "2026-10-04T02:01:43.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
