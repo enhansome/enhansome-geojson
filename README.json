@@ -19,7 +19,7 @@
             "open_issues": 290,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10504,
+            "stars": 10507,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4905,
+            "stars": 4906,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2078,
+            "stars": 2079,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1067,8 +1067,8 @@
             "id": 146140421,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T22:24:34Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-04T21:42:25Z",
+            "open_issues": 0,
             "owner": "mattijn",
             "repo": "topojson",
             "stars": 198,
@@ -2058,7 +2058,7 @@
             "open_issues": 22,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 348,
+            "stars": 347,
             "topics": [
               "geojson",
               "geospatial",
@@ -2083,7 +2083,7 @@
             "open_issues": 26,
             "owner": "opendatalab-de",
             "repo": "geojson-jackson",
-            "stars": 276,
+            "stars": 277,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:01:43.909Z",
+    "last_updated": "2026-10-05T01:18:51.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2545,
+      "stars": 2547,
       "topics": [
         "awesome",
         "awesome-list",
