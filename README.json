@@ -19,7 +19,7 @@
             "open_issues": 290,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10509,
+            "stars": 10512,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -955,7 +955,7 @@
             "open_issues": 33,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2381,
+            "stars": 2382,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2079,
+            "stars": 2078,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1558,7 +1558,7 @@
                 "open_issues": 6,
                 "owner": "aaronlidman",
                 "repo": "osm-and-geojson",
-                "stars": 91,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1695,7 +1695,7 @@
             "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1353,
+            "stars": 1352,
             "topics": [
               "boundaries",
               "country",
@@ -1790,7 +1790,7 @@
             "open_issues": 13,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 831,
+            "stars": 833,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:26:50.011Z",
+    "last_updated": "2026-10-07T01:50:50.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
