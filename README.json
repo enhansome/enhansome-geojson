@@ -19,7 +19,7 @@
             "open_issues": 290,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10512,
+            "stars": 10513,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4905,
+            "stars": 4903,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2078,
+            "stars": 2079,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1752,6 +1752,39 @@
         },
         {
           "node_type": "item",
+          "title": "historical-basemaps",
+          "description": "Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on global or continental scale",
+            "homepage": null,
+            "id": 122627482,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-15T12:38:01Z",
+            "open_issues": 13,
+            "owner": "aourednik",
+            "repo": "historical-basemaps",
+            "stars": 834,
+            "topics": [
+              "basemap",
+              "borders",
+              "geography",
+              "geojson",
+              "gis",
+              "history",
+              "map",
+              "mapping",
+              "maps",
+              "prehistory",
+              "svg"
+            ]
+          },
+          "first_seen": "2026-08-28T06:23:03.168Z"
+        },
+        {
+          "node_type": "item",
           "title": "france-geojson",
           "description": "Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format",
           "children": [],
@@ -1770,39 +1803,6 @@
             "topics": [
               "france",
               "geojson"
-            ]
-          },
-          "first_seen": "2026-08-28T06:23:03.168Z"
-        },
-        {
-          "node_type": "item",
-          "title": "historical-basemaps",
-          "description": "Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on global or continental scale",
-            "homepage": null,
-            "id": 122627482,
-            "language": "JavaScript",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-15T12:38:01Z",
-            "open_issues": 13,
-            "owner": "aourednik",
-            "repo": "historical-basemaps",
-            "stars": 833,
-            "topics": [
-              "basemap",
-              "borders",
-              "geography",
-              "geojson",
-              "gis",
-              "history",
-              "map",
-              "mapping",
-              "maps",
-              "prehistory",
-              "svg"
             ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:50:50.544Z",
+    "last_updated": "2026-10-08T02:18:07.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
