@@ -663,8 +663,8 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T17:23:32Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-08T07:33:19Z",
+            "open_issues": 7,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
             "stars": 287,
@@ -1338,7 +1338,7 @@
                 "open_issues": 58,
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1248,
+                "stars": 1249,
                 "topics": [
                   "cli",
                   "cython",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:18:07.871Z",
+    "last_updated": "2026-10-09T02:35:51.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",

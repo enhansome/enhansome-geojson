@@ -54,7 +54,7 @@ GeoJSON utilities that will make your life easier.
 
 ### validation
 
-* [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 287 | 🐛 6 | 🌐 Python | 📅 2026-09-25: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
+* [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 287 | 🐛 7 | 🌐 Python | 📅 2026-10-08: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 * [geojsonhint](https://github.com/mapbox/geojsonhint) ⚠️ Archived: find errors in your geojson files
 * [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 111 | 🐛 5 | 🌐 Python | 📅 2026-09-18: Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [gjf](https://github.com/yazeed44/gjf) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2021-06-22: A tool to fix invalid GeoJSON objects
@@ -94,7 +94,7 @@ GeoJSON utilities that will make your life easier.
   * [csv2geojson](https://github.com/mapbox/csv2geojson) ⭐ 373 | 🐛 17 | 🌐 JavaScript | 📅 2026-06-29: convert CSV to geojson
   * [geojson2dsv](https://github.com/tmcw/geojson2dsv) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2017-05-03: convert geojson to CSV and TSV
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
-  * [fiona](https://github.com/toblerity/fiona) ⭐ 1,248 | 🐛 58 | 🌐 Python | 📅 2025-02-20: nice python interface on top of ogr
+  * [fiona](https://github.com/toblerity/fiona) ⭐ 1,249 | 🐛 58 | 🌐 Python | 📅 2025-02-20: nice python interface on top of ogr
 * [shp2json](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
 * **SVG**
   * [geojson2svg](https://github.com/gagan-bansal/geojson2svg) ⭐ 250 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-26: Converts GeoJSON to SVG string given SVG view port size and maps extent.
@@ -139,7 +139,7 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 997 | 🐛 27 | 🌐 Python | 📅 2026-10-05: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 438 | 🐛 84 | 🌐 Java | 📅 2026-07-31: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,237 | 🐛 334 | 🌐 Java | 📅 2026-10-05)
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 438 | 🐛 84 | 🌐 Java | 📅 2026-07-31: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,235 | 🐛 335 | 🌐 Java | 📅 2026-10-05)
 * [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 347 | 🐛 22 | 🌐 Rust | 📅 2026-04-29: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 277 | 🐛 26 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 204 | 🐛 13 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
@@ -160,4 +160,4 @@ To the extent possible under law, [Tom MacWright](http://www.macwright.org) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
