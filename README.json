@@ -19,7 +19,7 @@
             "open_issues": 290,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10516,
+            "stars": 10517,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -251,7 +251,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-29T05:13:34Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ben-nour",
             "repo": "geojson-shave",
             "stars": 75,
@@ -710,7 +710,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T11:55:16Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "gadomski",
             "repo": "antimeridian",
             "stars": 111,
@@ -955,7 +955,7 @@
             "open_issues": 33,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2384,
+            "stars": 2383,
             "topics": [
               "algorithm",
               "clustering",
@@ -1334,8 +1334,8 @@
                 "id": 3080628,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-09T23:37:32Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-12T16:09:31Z",
+                "open_issues": 60,
                 "owner": "Toblerity",
                 "repo": "Fiona",
                 "stars": 1249,
@@ -1695,7 +1695,7 @@
             "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1352,
+            "stars": 1353,
             "topics": [
               "boundaries",
               "country",
@@ -1766,7 +1766,7 @@
             "open_issues": 13,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 841,
+            "stars": 844,
             "topics": [
               "basemap",
               "borders",
@@ -2001,7 +2001,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-05T18:14:24Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "jazzband",
             "repo": "geojson",
             "stars": 997,
@@ -2058,7 +2058,7 @@
             "open_issues": 22,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 347,
+            "stars": 346,
             "topics": [
               "geojson",
               "geospatial",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:50:26.703Z",
+    "last_updated": "2026-10-13T03:13:31.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
