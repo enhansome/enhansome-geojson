@@ -19,7 +19,7 @@
             "open_issues": 290,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10517,
+            "stars": 10518,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -663,8 +663,8 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T07:33:19Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-13T05:00:14Z",
+            "open_issues": 8,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
             "stars": 287,
@@ -1695,7 +1695,7 @@
             "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1353,
+            "stars": 1354,
             "topics": [
               "boundaries",
               "country",
@@ -1763,7 +1763,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-15T12:38:01Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "aourednik",
             "repo": "historical-basemaps",
             "stars": 844,
@@ -1799,7 +1799,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 835,
+            "stars": 836,
             "topics": [
               "france",
               "geojson"
@@ -2004,7 +2004,7 @@
             "open_issues": 28,
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 997,
+            "stars": 998,
             "topics": [
               "geojson",
               "python"
@@ -2058,7 +2058,7 @@
             "open_issues": 22,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 346,
+            "stars": 347,
             "topics": [
               "geojson",
               "geospatial",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:13:31.384Z",
+    "last_updated": "2026-10-14T01:26:32.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2550,
+      "stars": 2551,
       "topics": [
         "awesome",
         "awesome-list",
