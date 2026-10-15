@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-30T17:20:56Z",
-            "open_issues": 290,
+            "open_issues": 292,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10518,
+            "stars": 10519,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -952,10 +952,10 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-09-03T08:35:00Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2383,
+            "stars": 2384,
             "topics": [
               "algorithm",
               "clustering",
@@ -1067,7 +1067,7 @@
             "id": 146140421,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T21:53:30Z",
+            "last_commit": "2026-10-14T21:24:05Z",
             "open_issues": 0,
             "owner": "mattijn",
             "repo": "topojson",
@@ -1334,7 +1334,7 @@
                 "id": 3080628,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T16:09:31Z",
+                "last_commit": "2026-10-15T00:15:47Z",
                 "open_issues": 60,
                 "owner": "Toblerity",
                 "repo": "Fiona",
@@ -1766,7 +1766,7 @@
             "open_issues": 14,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 844,
+            "stars": 845,
             "topics": [
               "basemap",
               "borders",
@@ -1799,7 +1799,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 836,
+            "stars": 837,
             "topics": [
               "france",
               "geojson"
@@ -2001,7 +2001,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-05T18:14:24Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "jazzband",
             "repo": "geojson",
             "stars": 998,
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:26:32.100Z",
+    "last_updated": "2026-10-15T00:58:30.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
