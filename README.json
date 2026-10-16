@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10519,
+            "stars": 10518,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2079,
+            "stars": 2080,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1334,8 +1334,8 @@
                 "id": 3080628,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T00:15:47Z",
-                "open_issues": 60,
+                "last_commit": "2026-10-15T16:01:08Z",
+                "open_issues": 58,
                 "owner": "Toblerity",
                 "repo": "Fiona",
                 "stars": 1249,
@@ -2024,8 +2024,8 @@
             "id": 55638412,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-09T13:08:38Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-15T08:32:27Z",
+            "open_issues": 84,
             "owner": "mapbox",
             "repo": "mapbox-java",
             "stars": 438,
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:58:30.110Z",
+    "last_updated": "2026-10-16T00:49:46.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
