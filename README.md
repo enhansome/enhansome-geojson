@@ -4,7 +4,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,518 | 🐛 292 | 🌐 TypeScript | 📅 2026-09-30: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,519 | 🐛 292 | 🌐 TypeScript | 📅 2026-09-30: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 402 | 🐛 18 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 244 | 🐛 16 | 🌐 JavaScript | 📅 2024-11-25: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -54,9 +54,9 @@ GeoJSON utilities that will make your life easier.
 
 ### validation
 
-* [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 287 | 🐛 8 | 🌐 Python | 📅 2026-10-13: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
+* [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) ⭐ 287 | 🐛 8 | 🌐 Python | 📅 2026-10-16: [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 * [geojsonhint](https://github.com/mapbox/geojsonhint) ⚠️ Archived: find errors in your geojson files
-* [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 111 | 🐛 5 | 🌐 Python | 📅 2026-09-18: Fix GeoJSON polygons that cross the antimeridian (Python package)
+* [antimeridian](https://github.com/gadomski/antimeridian) ⭐ 111 | 🐛 6 | 🌐 Python | 📅 2026-10-16: Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [gjf](https://github.com/yazeed44/gjf) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2021-06-22: A tool to fix invalid GeoJSON objects
 * [check-geojson](https://github.com/placemark/check-geojson) ⭐ 86 | 🐛 6 | 🌐 TypeScript | 📅 2025-02-18: alternative to geojsonhint
 * [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson) ⭐ 9 | 🐛 7 | 🌐 JavaScript | 📅 2022-06-12: an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
@@ -75,7 +75,7 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-* [topojson](https://github.com/topojson/topojson) ⭐ 4,903 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
+* [topojson](https://github.com/topojson/topojson) ⭐ 4,904 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
 * [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,384 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-03: A fast GeoJSON clustering library for browsers and Node.
 * [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,080 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-30: Slice GeoJSON into vector tiles on the fly in the browser
 * [togeojson](https://github.com/tmcw/togeojson) ⭐ 440 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09: convert GPX & KML to geojson
@@ -118,8 +118,8 @@ GeoJSON utilities that will make your life easier.
 
 * [geo-maps](https://github.com/simonepri/geo-maps) ⭐ 1,354 | 🐛 16 | 🌐 JavaScript | 📅 2019-05-29: High Quality GeoJSON maps programmatically generated.
 * [world-atlas](https://github.com/topojson/world-atlas) ⚠️ Archived: customizable simplified versions of natural earth data
-* [us-atlas](https://github.com/topojson/us-atlas) ⭐ 929 | 🐛 9 | 🌐 Shell | 📅 2024-01-02: geojson & topojson for United States features
-* [historical-basemaps](https://github.com/aourednik/historical-basemaps) ⭐ 845 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-15: Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+* [us-atlas](https://github.com/topojson/us-atlas) ⭐ 930 | 🐛 9 | 🌐 Shell | 📅 2024-01-02: geojson & topojson for United States features
+* [historical-basemaps](https://github.com/aourednik/historical-basemaps) ⭐ 846 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-15: Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 * [france-geojson](https://github.com/gregoiredavid/france-geojson) ⭐ 837 | 🐛 17 | 📅 2022-12-02: Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 * [country-levels](https://github.com/hyperknot/country-levels-export) ⭐ 31 | 🐛 0 | 📅 2020-05-07 Full planet GeoJSON extracts, based on ISO and FIPS codes.
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-10: [openflights](http://openflights.org/) airports & airplane routes
@@ -160,4 +160,4 @@ To the extent possible under law, [Tom MacWright](http://www.macwright.org) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
