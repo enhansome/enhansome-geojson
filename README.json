@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10519,
+            "stars": 10518,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:48:41.773Z",
+    "last_updated": "2026-10-18T00:27:15.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
