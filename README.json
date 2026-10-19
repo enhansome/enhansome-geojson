@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-30T17:20:56Z",
-            "open_issues": 292,
+            "open_issues": 291,
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10518,
@@ -254,7 +254,7 @@
             "open_issues": 1,
             "owner": "ben-nour",
             "repo": "geojson-shave",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "geojson",
               "geojson-data",
@@ -1766,7 +1766,7 @@
             "open_issues": 14,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "basemap",
               "borders",
@@ -2058,7 +2058,7 @@
             "open_issues": 22,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "geojson",
               "geospatial",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:27:15.329Z",
+    "last_updated": "2026-10-19T00:33:20.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
