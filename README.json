@@ -1799,7 +1799,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "france",
               "geojson"
@@ -1884,7 +1884,7 @@
             "license": "MIT",
             "last_commit": "2026-01-03T21:38:13Z",
             "open_issues": 0,
-            "owner": "TimMcCauley",
+            "owner": "homingpigeom",
             "repo": "nintynine-boundaries",
             "stars": 16,
             "topics": [
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:11:44.377Z",
+    "last_updated": "2026-10-25T00:35:24.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2553,
+      "stars": 2552,
       "topics": [
         "awesome",
         "awesome-list",

@@ -120,7 +120,7 @@ GeoJSON utilities that will make your life easier.
 * [world-atlas](https://github.com/topojson/world-atlas) ⚠️ Archived: customizable simplified versions of natural earth data
 * [us-atlas](https://github.com/topojson/us-atlas) ⭐ 931 | 🐛 9 | 🌐 Shell | 📅 2024-01-02: geojson & topojson for United States features
 * [historical-basemaps](https://github.com/aourednik/historical-basemaps) ⭐ 858 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-15: Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
-* [france-geojson](https://github.com/gregoiredavid/france-geojson) ⭐ 837 | 🐛 17 | 📅 2022-12-02: Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
+* [france-geojson](https://github.com/gregoiredavid/france-geojson) ⭐ 838 | 🐛 17 | 📅 2022-12-02: Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 * [country-levels](https://github.com/hyperknot/country-levels-export) ⭐ 31 | 🐛 0 | 📅 2020-05-07 Full planet GeoJSON extracts, based on ISO and FIPS codes.
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-10: [openflights](http://openflights.org/) airports & airplane routes
 * [strava-geojson](https://github.com/tmcw/strava-geojson) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-08: export *all* strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
@@ -160,4 +160,4 @@ To the extent possible under law, [Tom MacWright](http://www.macwright.org) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
