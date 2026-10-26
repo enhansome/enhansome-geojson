@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10524,
+            "stars": 10526,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -219,6 +219,33 @@
         },
         {
           "node_type": "item",
+          "title": "geojson-shave",
+          "description": "a Python command-line tool for reducing the size of GeoJSON files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A command-line tool for reducing the size of GeoJSON files.",
+            "homepage": null,
+            "id": 779153433,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-29T05:13:34Z",
+            "open_issues": 1,
+            "owner": "ben-nour",
+            "repo": "geojson-shave",
+            "stars": 77,
+            "topics": [
+              "geojson",
+              "geojson-data",
+              "geospatial",
+              "geospatial-data",
+              "geospatial-processing"
+            ]
+          },
+          "first_seen": "2026-08-28T06:23:03.168Z"
+        },
+        {
+          "node_type": "item",
           "title": "geojson-random",
           "description": "generate random geojson points, lines, and polygons",
           "children": [],
@@ -235,33 +262,6 @@
             "repo": "geojson-random",
             "stars": 76,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:23:03.168Z"
-        },
-        {
-          "node_type": "item",
-          "title": "geojson-shave",
-          "description": "a Python command-line tool for reducing the size of GeoJSON files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A command-line tool for reducing the size of GeoJSON files.",
-            "homepage": null,
-            "id": 779153433,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-29T05:13:34Z",
-            "open_issues": 1,
-            "owner": "ben-nour",
-            "repo": "geojson-shave",
-            "stars": 76,
-            "topics": [
-              "geojson",
-              "geojson-data",
-              "geospatial",
-              "geospatial-data",
-              "geospatial-processing"
-            ]
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
         },
@@ -663,8 +663,8 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T17:25:58Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-25T02:57:01Z",
+            "open_issues": 10,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
             "stars": 287,
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4907,
+            "stars": 4906,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:35:24.075Z",
+    "last_updated": "2026-10-26T00:45:54.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
