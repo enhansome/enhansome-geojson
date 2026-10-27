@@ -15,7 +15,7 @@
             "id": 13301038,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T10:23:49Z",
+            "last_commit": "2026-10-26T16:04:59Z",
             "open_issues": 292,
             "owner": "Turfjs",
             "repo": "turf",
@@ -663,11 +663,11 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T02:57:01Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-26T04:21:22Z",
+            "open_issues": 11,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
-            "stars": 287,
+            "stars": 288,
             "topics": [
               "geojson",
               "geojson-spec",
@@ -709,8 +709,8 @@
             "id": 626665725,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T00:09:00Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-26T13:00:53Z",
+            "open_issues": 5,
             "owner": "gadomski",
             "repo": "antimeridian",
             "stars": 112,
@@ -982,7 +982,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2080,
+            "stars": 2081,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1335,7 +1335,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-15T16:01:08Z",
-                "open_issues": 58,
+                "open_issues": 57,
                 "owner": "Toblerity",
                 "repo": "Fiona",
                 "stars": 1248,
@@ -1695,7 +1695,7 @@
             "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1355,
+            "stars": 1354,
             "topics": [
               "boundaries",
               "country",
@@ -1724,7 +1724,7 @@
             "open_issues": 12,
             "owner": "topojson",
             "repo": "world-atlas",
-            "stars": 1239,
+            "stars": 1240,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1766,7 +1766,7 @@
             "open_issues": 15,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 858,
+            "stars": 859,
             "topics": [
               "basemap",
               "borders",
@@ -2058,7 +2058,7 @@
             "open_issues": 23,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 349,
+            "stars": 350,
             "topics": [
               "geojson",
               "geospatial",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T00:45:54.209Z",
+    "last_updated": "2026-10-27T01:38:19.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2552,
+      "stars": 2553,
       "topics": [
         "awesome",
         "awesome-list",
