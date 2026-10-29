@@ -67,8 +67,8 @@
             "id": 22392390,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-21T15:47:48Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-28T18:56:30Z",
+            "open_issues": 16,
             "owner": "mapbox",
             "repo": "geojson-merge",
             "stars": 244,
@@ -342,7 +342,7 @@
             "id": 18803559,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-21T15:47:37Z",
+            "last_commit": "2026-10-28T18:56:23Z",
             "open_issues": 3,
             "owner": "mapbox",
             "repo": "geojson-normalize",
@@ -363,7 +363,7 @@
             "id": 18994481,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-21T15:47:45Z",
+            "last_commit": "2026-10-28T18:56:28Z",
             "open_issues": 2,
             "owner": "mapbox",
             "repo": "geojson-coords",
@@ -979,7 +979,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-09-30T14:41:39Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "mapbox",
             "repo": "geojson-vt",
             "stars": 2081,
@@ -1338,7 +1338,7 @@
                 "open_issues": 57,
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1248,
+                "stars": 1249,
                 "topics": [
                   "cli",
                   "cython",
@@ -1766,7 +1766,7 @@
             "open_issues": 15,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 860,
+            "stars": 861,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T01:48:39.708Z",
+    "last_updated": "2026-10-29T01:57:36.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2152,8 +2152,8 @@
       "id": 36456042,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-23T17:14:52Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-28T15:14:38Z",
+      "open_issues": 0,
       "owner": "tmcw",
       "repo": "awesome-geojson",
       "stars": 2553,
@@ -2164,7 +2164,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "82febdfeb80ae5c21a3c4b2b790628b16261f99d",
+    "original_repository_sha": "31ff58df69f70b4cf31fd93f2242533fd8b443a6",
     "enhanced_repository": "enhansome/enhansome-geojson",
     "enhanced_repository_description": null,
     "title": "awesome geojson with stars"
