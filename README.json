@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-26T16:04:59Z",
-            "open_issues": 292,
+            "open_issues": 293,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10526,
+            "stars": 10525,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -111,7 +111,7 @@
             "id": 15216063,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-20T19:31:17Z",
+            "last_commit": "2026-10-29T12:52:50Z",
             "open_issues": 6,
             "owner": "mapbox",
             "repo": "geojson-rewind",
@@ -692,7 +692,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojsonhint",
-            "stars": 257,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4906,
+            "stars": 4905,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -955,7 +955,7 @@
             "open_issues": 33,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2385,
+            "stars": 2386,
             "topics": [
               "algorithm",
               "clustering",
@@ -1724,7 +1724,7 @@
             "open_issues": 12,
             "owner": "topojson",
             "repo": "world-atlas",
-            "stars": 1240,
+            "stars": 1239,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1763,10 +1763,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-15T12:38:01Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:57:36.802Z",
+    "last_updated": "2026-10-30T02:10:39.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
