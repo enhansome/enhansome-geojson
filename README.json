@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-26T16:04:59Z",
-            "open_issues": 293,
+            "open_issues": 295,
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10525,
@@ -67,7 +67,7 @@
             "id": 22392390,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-28T18:56:30Z",
+            "last_commit": "2026-10-30T19:13:14Z",
             "open_issues": 16,
             "owner": "mapbox",
             "repo": "geojson-merge",
@@ -111,7 +111,7 @@
             "id": 15216063,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-29T12:52:50Z",
+            "last_commit": "2026-10-30T19:13:32Z",
             "open_issues": 6,
             "owner": "mapbox",
             "repo": "geojson-rewind",
@@ -342,7 +342,7 @@
             "id": 18803559,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-28T18:56:23Z",
+            "last_commit": "2026-10-30T19:13:24Z",
             "open_issues": 3,
             "owner": "mapbox",
             "repo": "geojson-normalize",
@@ -363,7 +363,7 @@
             "id": 18994481,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-28T18:56:28Z",
+            "last_commit": "2026-10-30T19:12:30Z",
             "open_issues": 2,
             "owner": "mapbox",
             "repo": "geojson-coords",
@@ -663,11 +663,11 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T04:21:22Z",
+            "last_commit": "2026-10-30T17:24:24Z",
             "open_issues": 11,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "geojson",
               "geojson-spec",
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4905,
+            "stars": 4906,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -955,7 +955,7 @@
             "open_issues": 33,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2386,
+            "stars": 2387,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 12,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2081,
+            "stars": 2083,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1600,7 +1600,7 @@
                 "open_issues": 6,
                 "owner": "tyrasd",
                 "repo": "geojsontoosm",
-                "stars": 27,
+                "stars": 26,
                 "topics": [
                   "geojson",
                   "openstreetmap-data"
@@ -1695,7 +1695,7 @@
             "open_issues": 16,
             "owner": "simonepri",
             "repo": "geo-maps",
-            "stars": 1354,
+            "stars": 1356,
             "topics": [
               "boundaries",
               "country",
@@ -1745,7 +1745,7 @@
             "open_issues": 9,
             "owner": "topojson",
             "repo": "us-atlas",
-            "stars": 932,
+            "stars": 933,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1799,7 +1799,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 839,
+            "stars": 840,
             "topics": [
               "france",
               "geojson"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:10:39.651Z",
+    "last_updated": "2026-10-31T01:53:10.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2153,7 +2153,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-28T15:14:38Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
       "stars": 2553,
