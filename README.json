@@ -1401,7 +1401,7 @@
                 "open_issues": 10,
                 "owner": "mapbox",
                 "repo": "svg-to-geojson",
-                "stars": 119,
+                "stars": 118,
                 "topics": [
                   "data",
                   "geojson",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:53:10.260Z",
+    "last_updated": "2026-11-01T01:31:28.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
