@@ -19,7 +19,7 @@
             "open_issues": 295,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10529,
+            "stars": 10531,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -955,7 +955,7 @@
             "open_issues": 33,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2387,
+            "stars": 2389,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 12,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2083,
+            "stars": 2084,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1334,8 +1334,8 @@
                 "id": 3080628,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-03T02:05:40Z",
-                "open_issues": 58,
+                "last_commit": "2026-11-03T14:26:18Z",
+                "open_issues": 56,
                 "owner": "Toblerity",
                 "repo": "Fiona",
                 "stars": 1250,
@@ -2000,8 +2000,8 @@
             "id": 1985351,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T18:14:24Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-03T19:55:10Z",
+            "open_issues": 28,
             "owner": "jazzband",
             "repo": "geojson",
             "stars": 1001,
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:44:13.654Z",
+    "last_updated": "2026-11-04T02:45:31.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
