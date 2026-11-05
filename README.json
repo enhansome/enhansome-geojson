@@ -15,11 +15,11 @@
             "id": 13301038,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T16:04:59Z",
+            "last_commit": "2026-11-04T12:41:40Z",
             "open_issues": 295,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10531,
+            "stars": 10535,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1338,7 +1338,7 @@
                 "open_issues": 56,
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1250,
+                "stars": 1251,
                 "topics": [
                   "cli",
                   "cython",
@@ -1763,10 +1763,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-02T22:38:52Z",
-            "open_issues": 12,
+            "open_issues": 31,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 868,
+            "stars": 871,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:45:31.282Z",
+    "last_updated": "2026-11-05T02:53:18.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
