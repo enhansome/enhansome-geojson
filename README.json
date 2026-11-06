@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-04T12:41:40Z",
-            "open_issues": 295,
+            "open_issues": 296,
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10535,
@@ -71,7 +71,7 @@
             "open_issues": 16,
             "owner": "mapbox",
             "repo": "geojson-merge",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "banished"
             ]
@@ -1766,7 +1766,7 @@
             "open_issues": 31,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 871,
+            "stars": 872,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:53:18.659Z",
+    "last_updated": "2026-11-06T02:52:32.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
