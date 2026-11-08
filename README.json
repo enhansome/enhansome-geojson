@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-04T12:41:40Z",
-            "open_issues": 296,
+            "open_issues": 299,
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10536,
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4907,
+            "stars": 4906,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1000,7 +1000,7 @@
             "language": "TypeScript",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-09T12:57:03Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "placemark",
             "repo": "togeojson",
             "stars": 441,
@@ -1766,7 +1766,7 @@
             "open_issues": 31,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 874,
+            "stars": 876,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:24:54.234Z",
+    "last_updated": "2026-11-08T01:53:49.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",

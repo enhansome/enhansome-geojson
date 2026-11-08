@@ -4,7 +4,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,536 | 🐛 296 | 🌐 TypeScript | 📅 2026-11-04: collection of functions for spatial operations and analysi
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,536 | 🐛 299 | 🌐 TypeScript | 📅 2026-11-04: collection of functions for spatial operations and analysi
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 401 | 🐛 18 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 245 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-06: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
@@ -76,10 +76,10 @@ GeoJSON utilities that will make your life easier.
 
 ### conversion
 
-* [topojson](https://github.com/topojson/topojson) ⭐ 4,907 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
+* [topojson](https://github.com/topojson/topojson) ⭐ 4,906 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20: convert GeoJSON to & from TopoJSON, join data from CSV
 * [supercluster](https://github.com/mapbox/supercluster) ⭐ 2,389 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-03: A fast GeoJSON clustering library for browsers and Node.
 * [geojson-vt](https://github.com/mapbox/geojson-vt) ⭐ 2,084 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-30: Slice GeoJSON into vector tiles on the fly in the browser
-* [togeojson](https://github.com/tmcw/togeojson) ⭐ 441 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09: convert GPX & KML to geojson
+* [togeojson](https://github.com/tmcw/togeojson) ⭐ 441 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-09: convert GPX & KML to geojson
 * [wellknown](https://github.com/mapbox/wellknown) ⭐ 281 | 🐛 12 | 🌐 JavaScript | 📅 2026-06-29: convert WKT to GeoJSON
 * [esri2open](https://github.com/project-open-data/esri2open) ⚠️ Archived converts proprietary Esri formats to GeoJSON
 * [topojson for Python](https://github.com/mattijn/topojson) ⭐ 198 | 🐛 1 | 🌐 Python | 📅 2026-10-14: Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
@@ -120,7 +120,7 @@ GeoJSON utilities that will make your life easier.
 * [geo-maps](https://github.com/simonepri/geo-maps) ⭐ 1,356 | 🐛 16 | 🌐 JavaScript | 📅 2019-05-29: High Quality GeoJSON maps programmatically generated.
 * [world-atlas](https://github.com/topojson/world-atlas) ⚠️ Archived: customizable simplified versions of natural earth data
 * [us-atlas](https://github.com/topojson/us-atlas) ⭐ 933 | 🐛 9 | 🌐 Shell | 📅 2024-01-02: geojson & topojson for United States features
-* [historical-basemaps](https://github.com/aourednik/historical-basemaps) ⭐ 874 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-02: Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+* [historical-basemaps](https://github.com/aourednik/historical-basemaps) ⭐ 876 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-02: Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 * [france-geojson](https://github.com/gregoiredavid/france-geojson) ⭐ 841 | 🐛 17 | 📅 2022-12-02: Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 * [country-levels](https://github.com/hyperknot/country-levels-export) ⭐ 31 | 🐛 0 | 📅 2020-05-07 Full planet GeoJSON extracts, based on ISO and FIPS codes.
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-10: [openflights](http://openflights.org/) airports & airplane routes
@@ -161,4 +161,4 @@ To the extent possible under law, [Tom MacWright](http://www.macwright.org) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
