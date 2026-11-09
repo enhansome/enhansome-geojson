@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-04T12:41:40Z",
-            "open_issues": 299,
+            "open_issues": 300,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10536,
+            "stars": 10537,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1766,7 +1766,7 @@
             "open_issues": 31,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 876,
+            "stars": 878,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:53:49.409Z",
+    "last_updated": "2026-11-09T02:04:58.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
