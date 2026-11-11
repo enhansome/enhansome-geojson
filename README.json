@@ -15,11 +15,11 @@
             "id": 13301038,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T12:41:40Z",
-            "open_issues": 301,
+            "last_commit": "2026-11-10T20:13:35Z",
+            "open_issues": 303,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10537,
+            "stars": 10540,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -50,7 +50,7 @@
             "open_issues": 18,
             "owner": "max-mapper",
             "repo": "geojson-js-utils",
-            "stars": 401,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -94,7 +94,7 @@
             "open_issues": 4,
             "owner": "max-mapper",
             "repo": "simplify-geojson",
-            "stars": 183,
+            "stars": 182,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -663,7 +663,7 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T17:24:24Z",
+            "last_commit": "2026-11-10T14:27:13Z",
             "open_issues": 11,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
@@ -1482,7 +1482,7 @@
                 "open_issues": 59,
                 "owner": "tyrasd",
                 "repo": "osmtogeojson",
-                "stars": 751,
+                "stars": 752,
                 "topics": [
                   "geojson",
                   "javascript",
@@ -1763,10 +1763,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-02T22:38:52Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "basemap",
               "borders",
@@ -1799,7 +1799,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 841,
+            "stars": 843,
             "topics": [
               "france",
               "geojson"
@@ -2000,11 +2000,11 @@
             "id": 1985351,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-03T19:55:10Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-11T00:04:04Z",
+            "open_issues": 30,
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 1001,
+            "stars": 1002,
             "topics": [
               "geojson",
               "python"
@@ -2028,7 +2028,7 @@
             "open_issues": 84,
             "owner": "mapbox",
             "repo": "mapbox-java",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "android",
               "directions",
@@ -2058,7 +2058,7 @@
             "open_issues": 25,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "geojson",
               "geospatial",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:22:25.774Z",
+    "last_updated": "2026-11-11T02:17:49.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
