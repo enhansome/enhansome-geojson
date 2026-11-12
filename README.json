@@ -15,11 +15,11 @@
             "id": 13301038,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T20:13:35Z",
-            "open_issues": 303,
+            "last_commit": "2026-11-11T14:43:13Z",
+            "open_issues": 302,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10540,
+            "stars": 10539,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -664,7 +664,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-10T14:27:13Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
             "stars": 289,
@@ -2000,8 +2000,8 @@
             "id": 1985351,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-11T00:04:04Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-11T04:19:42Z",
+            "open_issues": 29,
             "owner": "jazzband",
             "repo": "geojson",
             "stars": 1002,
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:17:49.844Z",
+    "last_updated": "2026-11-12T03:26:10.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
