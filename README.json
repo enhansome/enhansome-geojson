@@ -19,7 +19,7 @@
             "open_issues": 302,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10539,
+            "stars": 10541,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -663,8 +663,8 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T14:27:13Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-12T08:46:27Z",
+            "open_issues": 11,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
             "stars": 289,
@@ -934,7 +934,7 @@
             "open_issues": 16,
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4906,
+            "stars": 4907,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1000,7 +1000,7 @@
             "language": "TypeScript",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-09T19:38:11Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "placemark",
             "repo": "togeojson",
             "stars": 441,
@@ -2004,7 +2004,7 @@
             "open_issues": 29,
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 1002,
+            "stars": 1001,
             "topics": [
               "geojson",
               "python"
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:26:10.436Z",
+    "last_updated": "2026-11-13T02:58:26.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2152,7 +2152,7 @@
       "id": 36456042,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-28T15:14:38Z",
+      "last_commit": "2026-11-12T15:29:05Z",
       "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
@@ -2164,7 +2164,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "31ff58df69f70b4cf31fd93f2242533fd8b443a6",
+    "original_repository_sha": "bf5b6cc01591a46be2ee8ce86f8cdfdd1b378c31",
     "enhanced_repository": "enhansome/enhansome-geojson",
     "enhanced_repository_description": null,
     "title": "awesome geojson with stars"
