@@ -19,7 +19,7 @@
             "open_issues": 302,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10541,
+            "stars": 10544,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -663,7 +663,7 @@
             "id": 265964613,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T08:46:27Z",
+            "last_commit": "2026-11-13T17:24:19Z",
             "open_issues": 11,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
@@ -1766,7 +1766,7 @@
             "open_issues": 32,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 881,
+            "stars": 883,
             "topics": [
               "basemap",
               "borders",
@@ -2129,7 +2129,7 @@
             "open_issues": 2,
             "owner": "ancore",
             "repo": "geojson-serializer",
-            "stars": 6,
+            "stars": 10,
             "topics": [
               "geojson",
               "jackson-databind",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:58:26.930Z",
+    "last_updated": "2026-11-14T02:43:49.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
