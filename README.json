@@ -19,7 +19,7 @@
             "open_issues": 302,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10544,
+            "stars": 10546,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1100,7 +1100,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "tokml",
-            "stars": 194,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1724,7 +1724,7 @@
             "open_issues": 12,
             "owner": "topojson",
             "repo": "world-atlas",
-            "stars": 1239,
+            "stars": 1240,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1766,7 +1766,7 @@
             "open_issues": 32,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 883,
+            "stars": 888,
             "topics": [
               "basemap",
               "borders",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:43:49.141Z",
+    "last_updated": "2026-11-15T02:11:45.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
