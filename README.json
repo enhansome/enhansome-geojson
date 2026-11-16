@@ -19,7 +19,7 @@
             "open_issues": 302,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10546,
+            "stars": 10547,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -999,8 +999,8 @@
             "id": 166107133,
             "language": "TypeScript",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-09T19:38:11Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-16T00:18:57Z",
+            "open_issues": 14,
             "owner": "placemark",
             "repo": "togeojson",
             "stars": 441,
@@ -1338,7 +1338,7 @@
                 "open_issues": 56,
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1251,
+                "stars": 1250,
                 "topics": [
                   "cli",
                   "cython",
@@ -1724,7 +1724,7 @@
             "open_issues": 12,
             "owner": "topojson",
             "repo": "world-atlas",
-            "stars": 1240,
+            "stars": 1241,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -1745,7 +1745,7 @@
             "open_issues": 9,
             "owner": "topojson",
             "repo": "us-atlas",
-            "stars": 933,
+            "stars": 934,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -2055,7 +2055,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T13:42:09Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "georust",
             "repo": "geojson",
             "stars": 351,
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:11:45.422Z",
+    "last_updated": "2026-11-16T02:24:54.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
