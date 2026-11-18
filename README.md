@@ -4,8 +4,8 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [turf](https://github.com/Turfjs/turf) ⭐ 10,549 | 🐛 302 | 🌐 TypeScript | 📅 2026-11-11: collection of functions for spatial operations and analysi
-* [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 402 | 🐛 18 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
+* [turf](https://github.com/Turfjs/turf) ⭐ 10,551 | 🐛 300 | 🌐 TypeScript | 📅 2026-11-17: collection of functions for spatial operations and analysi
+* [geojson-js-utils](https://github.com/maxogden/geojson-js-utils) ⭐ 401 | 🐛 18 | 🌐 JavaScript | 📅 2016-11-29: JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge) ⭐ 245 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-09: Merge multiple GeoJSON files into one FeatureCollection.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson) ⭐ 182 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12: apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 * [geojson-rewind](https://github.com/mapbox/geojson-rewind) ⭐ 133 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-09: enforce ring winding order
@@ -23,7 +23,7 @@ GeoJSON utilities that will make your life easier.
 * [de9im](https://github.com/dpmcmlxxvi/de9im) ⭐ 31 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-12: collection of fast functions for spatial javascript operations
 * [geojsontools](https://github.com/micolous/geojsontools) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2016-11-06: Python tools for manipulating GeoJSON files
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-20: extract shared borders of Polygons in a GeoJSON
-* [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-28: Converts polygon winding order between rfc7946 and [d3 compatible](https://github.com/d3/d3-geo#d3-geo) ⭐ 1,118 | 🐛 34 | 🌐 JavaScript | 📅 2026-11-03 conventions.
+* [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-28: Converts polygon winding order between rfc7946 and [d3 compatible](https://github.com/d3/d3-geo#d3-geo) ⭐ 1,119 | 🐛 34 | 🌐 JavaScript | 📅 2026-11-03 conventions.
 * [geojson-indoor-tools](https://github.com/armanjr/geojson-indoor-tools) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-01-24: Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 * [geojson-multiply](https://github.com/haoliangyu/geojson-multiply) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-06:  merge normal geojson features into one multi geometry type feature
 * [geo\_assigner](https://github.com/stadt-karlsruhe/geo_assigner) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2017-09-15: Copy a property to all intersecting features
@@ -108,7 +108,7 @@ GeoJSON utilities that will make your life easier.
 * **OpenStreetMap**
   * [osmtogeojson](https://github.com/tyrasd/osmtogeojson) ⭐ 752 | 🐛 59 | 🌐 JavaScript | 📅 2026-04-23: convert OpenStreetMap data to GeoJSON
   * [query-overpass](https://github.com/perliedman/query-overpass) ⭐ 158 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-28 CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson](https://github.com/tyrasd/osmtogeojson) ⭐ 752 | 🐛 59 | 🌐 JavaScript | 📅 2026-04-23
-  * [osm2geojson](https://github.com/aspectumapp/osm2geojson) ⭐ 116 | 🐛 2 | 🌐 Python | 📅 2026-09-21: (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+  * [osm2geojson](https://github.com/aspectumapp/osm2geojson) ⭐ 117 | 🐛 2 | 🌐 Python | 📅 2026-09-21: (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
   * [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson) ⭐ 90 | 🐛 6 | 🌐 JavaScript | 📅 2016-07-14: convert GeoJSON to OSM XML and OSM XML to GeoJSON
   * [minjur](https://github.com/mapbox/minjur) ⚠️ Archived: converts OpenStreetMap data to GeoJSON faster than anything else
   * [geojsontoosm](https://github.com/tyrasd/geojsontoosm) ⭐ 26 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-18: convert GeoJSON to OSM XML
@@ -140,9 +140,9 @@ GeoJSON utilities that will make your life easier.
 
 ### serialization
 
-* [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 1,001 | 🐛 29 | 🌐 Python | 📅 2026-11-11: serialize geojson to/from python datatypes
-* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 84 | 🌐 Java | 📅 2026-10-15: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,232 | 🐛 330 | 🌐 Java | 📅 2026-11-16)
-* [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 351 | 🐛 26 | 🌐 Rust | 📅 2026-10-23: serialize geojson to/from rust datatypes
+* [python-geojson](https://github.com/frewsxcv/python-geojson) ⭐ 1,001 | 🐛 30 | 🌐 Python | 📅 2026-11-11: serialize geojson to/from python datatypes
+* [mapbox-java](https://github.com/mapbox/mapbox-java) ⭐ 439 | 🐛 84 | 🌐 Java | 📅 2026-10-15: serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson) ⭐ 24,235 | 🐛 330 | 🌐 Java | 📅 2026-11-18)
+* [rust-geojson](https://github.com/georust/rust-geojson) ⭐ 351 | 🐛 25 | 🌐 Rust | 📅 2026-11-17: serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) ⭐ 277 | 🐛 25 | 🌐 Java | 📅 2025-12-11: serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson) ⭐ 204 | 🐛 13 | 🌐 Ruby | 📅 2024-10-10: serialize geojson to/from ruby RGeo datatypes
 * [geojson-serializer](https://github.com/ancore/geojson-serializer) ⭐ 10 | 🐛 2 | 🌐 Java | 📅 2023-06-14: serialize Java with annotations as GeoJSON
@@ -162,4 +162,4 @@ To the extent possible under law, [Tom MacWright](http://www.macwright.org) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
