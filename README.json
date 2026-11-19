@@ -19,7 +19,7 @@
             "open_issues": 300,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10551,
+            "stars": 10553,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -710,7 +710,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T13:00:53Z",
-            "open_issues": 5,
+            "open_issues": 9,
             "owner": "gadomski",
             "repo": "antimeridian",
             "stars": 112,
@@ -1766,7 +1766,7 @@
             "open_issues": 32,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "basemap",
               "borders",
@@ -1799,7 +1799,7 @@
             "open_issues": 17,
             "owner": "gregoiredavid",
             "repo": "france-geojson",
-            "stars": 843,
+            "stars": 844,
             "topics": [
               "france",
               "geojson"
@@ -2054,8 +2054,8 @@
             "id": 24011994,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T18:30:58Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-18T06:37:38Z",
+            "open_issues": 23,
             "owner": "georust",
             "repo": "geojson",
             "stars": 351,
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:54:34.723Z",
+    "last_updated": "2026-11-19T03:52:46.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2557,
+      "stars": 2558,
       "topics": [
         "awesome",
         "awesome-list",
