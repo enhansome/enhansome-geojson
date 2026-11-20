@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-17T15:33:06Z",
-            "open_issues": 300,
+            "open_issues": 302,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10553,
+            "stars": 10552,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -50,7 +50,7 @@
             "open_issues": 18,
             "owner": "max-mapper",
             "repo": "geojson-js-utils",
-            "stars": 401,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -667,7 +667,7 @@
             "open_issues": 11,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "geojson",
               "geojson-spec",
@@ -709,8 +709,8 @@
             "id": 626665725,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T13:00:53Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-19T17:07:25Z",
+            "open_issues": 6,
             "owner": "gadomski",
             "repo": "antimeridian",
             "stars": 112,
@@ -955,7 +955,7 @@
             "open_issues": 33,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2389,
+            "stars": 2388,
             "topics": [
               "algorithm",
               "clustering",
@@ -982,7 +982,7 @@
             "open_issues": 12,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2083,
+            "stars": 2082,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.168Z"
@@ -999,7 +999,7 @@
             "id": 166107133,
             "language": "TypeScript",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-17T18:25:59Z",
+            "last_commit": "2026-11-19T14:44:37Z",
             "open_issues": 13,
             "owner": "placemark",
             "repo": "togeojson",
@@ -1335,10 +1335,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-03T14:26:18Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "Toblerity",
                 "repo": "Fiona",
-                "stars": 1251,
+                "stars": 1250,
                 "topics": [
                   "cli",
                   "cython",
@@ -1482,7 +1482,7 @@
                 "open_issues": 59,
                 "owner": "tyrasd",
                 "repo": "osmtogeojson",
-                "stars": 752,
+                "stars": 751,
                 "topics": [
                   "geojson",
                   "javascript",
@@ -1766,7 +1766,7 @@
             "open_issues": 32,
             "owner": "aourednik",
             "repo": "historical-basemaps",
-            "stars": 891,
+            "stars": 896,
             "topics": [
               "basemap",
               "borders",
@@ -2001,10 +2001,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-11T04:19:42Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "jazzband",
             "repo": "geojson",
-            "stars": 1001,
+            "stars": 1000,
             "topics": [
               "geojson",
               "python"
@@ -2028,7 +2028,7 @@
             "open_issues": 84,
             "owner": "mapbox",
             "repo": "mapbox-java",
-            "stars": 439,
+            "stars": 438,
             "topics": [
               "android",
               "directions",
@@ -2058,7 +2058,7 @@
             "open_issues": 23,
             "owner": "georust",
             "repo": "geojson",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "geojson",
               "geospatial",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:52:46.011Z",
+    "last_updated": "2026-11-20T03:45:02.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
@@ -2156,7 +2156,7 @@
       "open_issues": 1,
       "owner": "tmcw",
       "repo": "awesome-geojson",
-      "stars": 2558,
+      "stars": 2557,
       "topics": [
         "awesome",
         "awesome-list",
