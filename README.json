@@ -667,7 +667,7 @@
             "open_issues": 11,
             "owner": "developmentseed",
             "repo": "geojson-pydantic",
-            "stars": 290,
+            "stars": 291,
             "topics": [
               "geojson",
               "geojson-spec",
@@ -2144,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:45:02.794Z",
+    "last_updated": "2026-11-21T03:32:55.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "GeoJSON utilities that will make your life easier.",
